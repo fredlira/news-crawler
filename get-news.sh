@@ -8,7 +8,7 @@ news_file=news_$(date +"%Y%m%d_%H%M")
 echo "news file: $news_file"
 echo ""
 
-curl -L news.google.com/ > $news_file.data
+curl -L -H "charset=utf-8" news.google.com/ > $news_file.data
 echo "curl.. OK"
 
 set echo off
