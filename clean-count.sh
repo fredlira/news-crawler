@@ -21,5 +21,11 @@ sed -i '/ that-/d' $1
 sed -i '/ how-/d' $1
 sed -i '/ out-/d' $1
 sed -i '/ as-/d' $1
+sed -i '/ 1 /d' $1
+
+sed -i '/ will-/d' $1
+sed -i '/ at-/d' $1
+sed -i '/ what-/d' $1
+sed -i '/ be-/d' $1
 
 cat $1
