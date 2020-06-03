@@ -5,7 +5,7 @@ echo ""
 
 news_file=news_$(date +"%Y%m%d_%H%M")
 
-curl -L -H "charset=ISO-8859-1" news.google.com/ > $news_file.data
+curl -L -H "charset=ISO-8859-1" $1 > $news_file.data
 echo "curl..    OK"
 
 xmllint --html --xpath '//*[@class="DY5T1d"]/text()' $news_file.data | tr '[A-Z]' '[a-z]' > $news_file.titles
