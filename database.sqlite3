@@ -1,0 +1,1 @@
+create table ft_news (id int primary key, title text, source text, tag_id int, date text)
