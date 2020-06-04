@@ -1,9 +1,11 @@
 # news-crawler
 
-fonte, xpath - news.google.com/
+00) ./get-news.sh news.google.com/
 
-1) titles, lowercase titles
-2) tokens
-3) count tokens
-4) sum tokens
-5) ordering titles by sum tokens
+01) titles news (lowercase all)
+02) filter titles
+03) tokenize words
+04) negative and positive words filters
+05) count frequencies of tokens
+06) sum tokens in titles news
+07) ordering titles news by tokens values
