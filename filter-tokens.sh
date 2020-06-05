@@ -5,6 +5,7 @@ sed -i '/ |$/d' $1
 sed -i '/ a$/d' $1
 sed -i '/ about$/d' $1
 sed -i '/ after$/d' $1
+sed -i '/ against$/d' $1
 sed -i '/ all$/d' $1
 sed -i '/ an$/d' $1
 sed -i '/ and$/d' $1
@@ -13,6 +14,9 @@ sed -i '/ at$/d' $1
 
 sed -i '/ but$/d' $1
 sed -i '/ by$/d' $1
+
+sed -i "/ don't$/d" $1
+sed -i '/ down$/d' $1
 
 sed -i '/ i$/d' $1
 sed -i '/ in$/d' $1
@@ -27,15 +31,17 @@ sed -i '/ for$/d' $1
 sed -i '/ from$/d' $1
 sed -i '/ full$/d' $1
 
+sed -i '/ more$/d' $1
+
 sed -i '/ new$/d' $1
 sed -i '/ not$/d' $1
 sed -i '/ now$/d' $1
 
 sed -i '/ that$/d' $1
-sed -i '/ to$/d' $1
 sed -i '/ the$/d' $1
+sed -i '/ this$/d' $1
+sed -i '/ to$/d' $1
 
-sed -i '/ down$/d' $1
 sed -i '/ last$/d' $1
 
 sed -i '/ her$/d' $1

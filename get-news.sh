@@ -3,19 +3,18 @@
 # $1 = source_name
 # $2 = source_url
 # $3 = xpath_news_title
-# $4 = xmllint param (--html)
+# $4 = language
+# $5 = xmllint param (--html)
 
-echo $0 $1
+echo $0 $1 $4
 echo ""
 
-news_file=news_$1_$(date +"%Y%m%d_%H%M")
+news_file=news_$4_$1_$(date +"%Y%m%d_%H%M")
 
 curl -L -H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" $2 > $news_file.raw
-#wget -O $news_file.data $1
 echo "data..            OK"
 
-xmllint $4 --xpath $3 $news_file.raw | tr '[A-Z]' '[a-z]' > $news_file.titles
-#xmllint --html --xpath '//*[@class="DY5T1d"]/text()' $news_file.data | tr '[A-Z]' '[a-z]' > $news_file.titles
+xmllint $5 --xpath $3 $news_file.raw | tr '[A-Z]' '[a-z]' > $news_file.titles
 echo "titles..          OK"
 
 ./filter-titles.sh $news_file.titles
@@ -26,5 +25,8 @@ echo "tokens..          OK"
 
 ./filter-tokens.sh $news_file.tokens
 echo "tokens filtered.. OK"
+
+sed -i "s/^/{$1}, /" $news_file.titles
+cat $news_file.titles &>> news_$4.titles
 
 echo ""
