@@ -1,24 +1,30 @@
- #!/bin/bash
+#!/bin/bash
 
-echo $0
+# $1 = source_name
+# $2 = source_url
+# $3 = xpath_news_title
+# $4 = xmllint param (--html)
+
+echo $0 $1
 echo ""
 
-news_file=news_$(date +"%Y%m%d_%H%M")
+news_file=news_$1_$(date +"%Y%m%d_%H%M")
 
-curl -L -H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" $1 > $news_file.data
+curl -L -H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" $2 > $news_file.raw
 #wget -O $news_file.data $1
 echo "data..            OK"
 
-xmllint --html --xpath '//*[@class="DY5T1d"]/text()' $news_file.data | tr '[A-Z]' '[a-z]' > $news_file.titles
+xmllint $4 --xpath $3 $news_file.raw | tr '[A-Z]' '[a-z]' > $news_file.titles
+#xmllint --html --xpath '//*[@class="DY5T1d"]/text()' $news_file.data | tr '[A-Z]' '[a-z]' > $news_file.titles
 echo "titles..          OK"
 
 ./filter-titles.sh $news_file.titles
 echo "titles filtered.. OK"
 
-awk '{for(x=1;$x;++x)print $x "-"}' $news_file.titles | tr "${PUNCT}" "@" | sed 's/@//g' | sort | uniq -c | sort > $news_file.count
-echo "count..           OK"
+awk '{for(x=1;$x;++x)print $x}' $news_file.titles | tr "${PUNCT}" "@" | sed 's/@//g' | sort | uniq -c | sort > $news_file.tokens
+echo "tokens..          OK"
 
-./filter-count.sh $news_file.count
-echo "count filtered..  OK"
+./filter-tokens.sh $news_file.tokens
+echo "tokens filtered.. OK"
 
 echo ""
