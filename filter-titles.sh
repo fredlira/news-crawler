@@ -5,6 +5,7 @@ sed -i 's/| elemental//g' $1
 sed -i 's/| wsj//g' $1
 sed -i 's/| sportscenter//g' $1
 sed -i 's/| nbc news//g' $1
+sed -i 's/| opinion//g' $1
 
 sed -i 's/- nyt//g' $1
 sed -i 's/- thurrott.com//g' $1
