@@ -1,11 +1,18 @@
 # news-crawler
 
-00) ./get-news.sh news.google.com/
+./get-news.sh <source_name> <source_url> <parse command> <xml_pattern> <language>
 
-01) titles news (lowercase all)
-02) filter titles
-03) tokenize words
-04) negative and positive words filters
-05) count frequencies of tokens
-06) sum tokens in titles news
-07) ordering titles news by tokens values
+1) custom parsing
+2) titles news (lowercase all)
+3) filter titles by language
+4) tokenize words by language
+5) negative and positive words filters
+6) count frequencies of tokens
+7) sum tokens in titles news
+8) ordering titles news by tokens values
+
+# example
+
+./get-news.sh google news.google.com/ 'xmllint --html --xpath' '//*[@class="DY5T1d"]/text()' en
+
+./start.sh
