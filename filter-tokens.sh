@@ -1,6 +1,7 @@
 #!/bin/bash
 
 sed -i '/ |$/d' $1
+sed -i '/},$/d' $1
 
 sed -i '/ a$/d' $1
 sed -i '/ about$/d' $1
@@ -59,7 +60,11 @@ sed -i '/ 1 /d' $1
 
 sed -i '/ 3$/d' $1
 
+sed -i '/ you$/d' $1
+
 #verbs
+
+sed -i '/ should$/d' $1
 
 sed -i '/ have$/d' $1
 sed -i '/ get$/d' $1
