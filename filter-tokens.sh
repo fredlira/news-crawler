@@ -28,6 +28,7 @@ sed -i '/ by$/d' $1
 sed -i '/ do$/d' $1
 sed -i "/ don't$/d" $1
 sed -i '/ down$/d' $1
+sed -i '/ during$/d' $1
 
 sed -i '/ i$/d' $1
 sed -i '/ in$/d' $1
@@ -45,6 +46,7 @@ sed -i '/ full$/d' $1
 sed -i '/ more$/d' $1
 
 sed -i '/ new$/d' $1
+sed -i '/ news$/d' $1
 sed -i '/ not$/d' $1
 sed -i '/ now$/d' $1
 
@@ -93,6 +95,8 @@ sed -i '/ 11$/d' $1
 sed -i '/ 12$/d' $1
 sed -i '/ 13$/d' $1
 
+sed -i '/ 250$/d' $1
+
 # verbs - en
 
 sed -i '/ should$/d' $1
@@ -102,7 +106,10 @@ sed -i '/ have$/d' $1
 sed -i '/ get$/d' $1
 sed -i '/ got$/d' $1
 
+sed -i '/ know$/d' $1
+
 sed -i '/ will$/d' $1
+
 sed -i '/ be$/d' $1
 sed -i '/ is$/d' $1
 sed -i '/ are$/d' $1
@@ -110,8 +117,10 @@ sed -i '/ was$/d' $1
 
 sed -i '/ say$/d' $1
 sed -i '/ says$/d' $1
-
 sed -i '/ see$/d' $1
+
+sed -i '/ talk$/d' $1
+sed -i '/ talks$/d' $1
 
 # words - pt
 

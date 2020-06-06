@@ -13,8 +13,8 @@ echo $0
 ./get-news.sh g1_mundo https://g1.globo.com/rss/g1/mundo/ 'xmllint --xpath' '//item/title/text()' pt
 ./get-news.sh terra_mundo https://www.terra.com.br/noticias/mundo/ 'xmllint --html --encode utf8 --xpath' '//div[@data-ga="true"]/@title' pt
 
-awk '{for(x=1;$x;++x)print $x}' news_en.titles | tr "${PUNCT}" "@" | sed 's/@//g' | sort | uniq -c | sort > news_en.tokens
-awk '{for(x=1;$x;++x)print $x}' news_pt.titles | tr "${PUNCT}" "@" | sed 's/@//g' | sort | uniq -c | sort > news_pt.tokens
+awk '{for(x=1;$x;++x)print $x}' news_en.titles | tr "'" " " | sort | uniq -c | sort > news_en.tokens
+awk '{for(x=1;$x;++x)print $x}' news_pt.titles | tr "'" " " | sort | uniq -c | sort > news_pt.tokens
 
 ./filter-tokens.sh news_en.tokens
 ./filter-tokens.sh news_pt.tokens
