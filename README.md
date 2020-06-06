@@ -15,4 +15,6 @@
 
 ./get-news.sh google news.google.com/ 'xmllint --html --xpath' '//*[@class="DY5T1d"]/text()' en
 
+# to use
+
 ./start.sh
