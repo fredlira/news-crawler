@@ -23,6 +23,7 @@ if [ -z "$1" -o "$1" = "pt" ]; then
 ./get-news.sh g1_mundo https://g1.globo.com/rss/g1/mundo/ 'xmllint --xpath' '//item/title/text()' pt
 ./get-news.sh terra_mundo https://www.terra.com.br/noticias/mundo/ 'xmllint --html --encode utf8 --xpath' '//div[@data-ga="true"]/@title' pt
 ./get-news.sh dw_africa https://rss.dw.com/rdf/rss-br-africa 'xml_grep --text_only' '//item/title' pt
+./get-news.sh infomoney https://www.infomoney.com.br/feed/ 'xml_grep --text_only' '//item/title' pt
 
 ./preparser-tokens.sh pt
 ./listing-tokens.sh pt

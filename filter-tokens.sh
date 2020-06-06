@@ -3,7 +3,7 @@
 # characters non-alphabetical
 
 sed -i '/ |$/d' $1
-sed -i '/},$/d' $1
+sed -i '/}$/d' $1
 sed -i '/ &amp;$/d' $1
 sed -i '/ -$/d' $1
 sed -i '/ —$/d' $1
