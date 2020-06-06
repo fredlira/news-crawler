@@ -15,6 +15,7 @@ sed -i '/ at$/d' $1
 sed -i '/ but$/d' $1
 sed -i '/ by$/d' $1
 
+sed -i '/ do$/d' $1
 sed -i "/ don't$/d" $1
 sed -i '/ down$/d' $1
 
@@ -37,6 +38,7 @@ sed -i '/ new$/d' $1
 sed -i '/ not$/d' $1
 sed -i '/ now$/d' $1
 
+sed -i '/ than$/d' $1
 sed -i '/ that$/d' $1
 sed -i '/ the$/d' $1
 sed -i '/ this$/d' $1
@@ -57,9 +59,17 @@ sed -i '/ with$/d' $1
 
 sed -i '/ 1 /d' $1
 
+sed -i '/ 1$/d' $1
+sed -i '/ 2$/d' $1
 sed -i '/ 3$/d' $1
+sed -i '/ 4$/d' $1
+sed -i '/ 5$/d' $1
+sed -i '/ 6$/d' $1
+sed -i '/ 7$/d' $1
 
 sed -i '/ you$/d' $1
+
+sed -i '/ some$/d' $1
 
 #verbs
 
