@@ -10,8 +10,8 @@ if [ -z "$1" -o "$1" = "en" ]; then
 ./get-news.sh wp http://feeds.washingtonpost.com/rss/politics?itid=lk_inline_manual_2 'xml_grep --text_only' '//item/title' en
 ./get-news.sh nyt https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/subject/international-relations/rss.xml 'xmllint --xpath' '//item/title/text()' en
 
-awk '{for(x=1;$x;++x)print $x}' news_en.titles | tr "'" " " | sort | uniq -c | sort > news_en.tokens
-
+./preparser-tokens.sh en
+./listing-tokens.sh en
 ./filter-tokens.sh news_en.tokens
 
 fi
@@ -24,8 +24,8 @@ if [ -z "$1" -o "$1" = "pt" ]; then
 ./get-news.sh terra_mundo https://www.terra.com.br/noticias/mundo/ 'xmllint --html --encode utf8 --xpath' '//div[@data-ga="true"]/@title' pt
 ./get-news.sh dw_africa https://rss.dw.com/rdf/rss-br-africa 'xml_grep --text_only' '//item/title' pt
 
-awk '{for(x=1;$x;++x)print $x}' news_pt.titles | tr "'" " " | sort | uniq -c | sort > news_pt.tokens
-
+./preparser-tokens.sh pt
+./listing-tokens.sh pt
 ./filter-tokens.sh news_pt.tokens
 
 fi

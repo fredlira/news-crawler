@@ -8,27 +8,26 @@
 
 echo $0 $1 $5
 echo ""
+echo "source name: $1"
+echo " source url: $2"
+echo "   language: $5"
+echo ""
 
 news_file=news_$5_$1_$(date +"%Y%m%d_%H%M")
 
 curl -L -H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" $2 > $news_file.raw
-echo ""
-echo "data..            OK"
+echo "curl..               OK"
 
-eval "$3 '$4' $news_file.raw" | tr '[A-Z]' '[a-z]' | sort | uniq > $news_file.titles
-echo "titles..          OK"
+eval "$3 '$4' $news_file.raw" > $news_file.titles # from .raw to .titles
+echo "xmllint, xml_grep..  OK"
 
-./filter-titles.sh $news_file.titles
-echo "titles filtered.. OK"
+./preparser-titles.sh $news_file.titles # about .titles
+#echo "titles preparsed..   OK"
 
-sed -i "s/^/{$1}, /" $news_file.titles # adding source tags
-cat $news_file.titles &>> news_$5.titles
-echo "titles tagged..   OK"
+./filter-titles.sh $news_file.titles # about .titles
+#echo "titles filtered..    OK"
 
-#awk '{for(x=1;$x;++x)print $x}' $news_file.titles | tr -d '[:punct:]' | tr "'" " " | sort | uniq -c | sort > $news_file.tokens
-#echo "tokens..          OK"
-
-#./filter-tokens.sh $news_file.tokens
-#echo "tokens filtered.. OK"
+./tagging-titles.sh $1 $news_file $5 # about .titles
+#echo "titles tagged..      OK"
 
 echo ""

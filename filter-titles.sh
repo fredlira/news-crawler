@@ -1,5 +1,7 @@
 #!/bin/bash
 
+echo $0 $1
+
 # en
 
 sed -i 's/| thehill//g' $1

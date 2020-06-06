@@ -33,6 +33,8 @@ sed -i '/ during$/d' $1
 sed -i '/ i$/d' $1
 sed -i '/ in$/d' $1
 sed -i '/ it$/d' $1
+sed -i '/ if$/d' $1
+sed -i '/ its$/d' $1
 
 sed -i '/ of$/d' $1
 sed -i '/ on$/d' $1
@@ -44,6 +46,7 @@ sed -i '/ from$/d' $1
 sed -i '/ full$/d' $1
 
 sed -i '/ more$/d' $1
+sed -i '/ most$/d' $1
 
 sed -i '/ new$/d' $1
 sed -i '/ news$/d' $1
@@ -59,6 +62,7 @@ sed -i '/ to$/d' $1
 
 sed -i '/ last$/d' $1
 
+sed -i '/ he$/d' $1
 sed -i '/ her$/d' $1
 sed -i '/ his$/d' $1
 sed -i '/ how$/d' $1
@@ -77,11 +81,14 @@ sed -i '/ with$/d' $1
 
 sed -i '/ you$/d' $1
 
+sed -i '/ just$/d' $1
+
 sed -i '/ some$/d' $1
 
 sed -i '/ should$/d' $1
 
 sed -i '/ have$/d' $1
+sed -i '/ has$/d' $1
 
 sed -i '/ get$/d' $1
 sed -i '/ got$/d' $1
@@ -124,6 +131,14 @@ sed -i '/ 250$/d' $1
 
 # words - pt
 
+sed -i 's/caso/caso ou casos/g' $1
+
+sed -i 's/morte/morte ou mortes/g' $1
+
+sed -i 's/policia/policia, policiais ou policial/g' $1
+
+sed -i 's/protesto/protesto ou protestos/g' $1
+
 sed -i '/ à$/d' $1
 sed -i '/ ao$/d' $1
 sed -i '/ após$/d' $1
@@ -149,13 +164,19 @@ sed -i '/ no$/d' $1
 sed -i '/ nos$/d' $1
 
 sed -i '/ o$/d' $1
+sed -i '/ os$/d' $1
 
 sed -i '/ para$/d' $1
+sed -i '/ pelo$/d' $1
 sed -i '/ por$/d' $1
 
 sed -i '/ que$/d' $1
 
 sed -i '/ são$/d' $1
+sed -i '/ se$/d' $1
+sed -i '/ ser$/d' $1
 sed -i '/ sobre$/d' $1
+
+sed -i '/ um$/d' $1
 
 #cat $1
