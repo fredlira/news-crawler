@@ -4,18 +4,19 @@ echo $0 $1
 
 # en
 
+sed -i 's/| abc news//g' $1
 sed -i 's/| thehill//g' $1
 sed -i 's/| elemental//g' $1
 sed -i 's/| wsj//g' $1
 sed -i 's/| sportscenter//g' $1
 sed -i 's/| nbc news//g' $1
-sed -i 's/| opinion//g' $1
 sed -i 's/| gma digital//g' $1
-sed -i 's/| abc news//g' $1
 sed -i 's/| oilprice.com//g' $1
+sed -i 's/| opinion//g' $1
 sed -i 's/| pti//g' $1
-sed -i 's/| wnt//g' $1
 sed -i 's/| kotaku//g' $1
+sed -i 's/| wion news//g' $1
+sed -i 's/| wnt//g' $1
 
 sed -i 's/: code switch//g' $1
 sed -i 's/: report//g' $1

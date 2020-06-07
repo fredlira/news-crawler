@@ -1,5 +1,9 @@
 #!/bin/bash
 
+#./filter-tokens.sh news_file.tokens
+
+echo $0 $1
+
 # characters non-alphabetical
 
 sed -i '/ |$/d' $1
@@ -53,6 +57,7 @@ sed -i '/ news$/d' $1
 sed -i '/ not$/d' $1
 sed -i '/ now$/d' $1
 
+sed -i '/ t$/d' $1
 sed -i '/ than$/d' $1
 sed -i '/ that$/d' $1
 sed -i '/ the$/d' $1
@@ -75,11 +80,12 @@ sed -i '/ up$/d' $1
 sed -i '/ what$/d' $1
 sed -i '/ we$/d' $1
 sed -i '/ were$/d' $1
-#sed -i '/ who$/d' $1
 sed -i '/ why$/d' $1
 sed -i '/ with$/d' $1
 
 sed -i '/ you$/d' $1
+
+sed -i '/ x$/d' $1
 
 sed -i '/ just$/d' $1
 
@@ -131,13 +137,12 @@ sed -i '/ 250$/d' $1
 
 # words - pt
 
-sed -i 's/caso/caso ou casos/g' $1
+sed -i 's/protest$/protest, protests/g' $1
 
-sed -i 's/morte/morte ou mortes/g' $1
-
-sed -i 's/policia/policia, policiais ou policial/g' $1
-
-sed -i 's/protesto/protesto ou protestos/g' $1
+sed -i 's/caso$/caso, casos/g' $1
+sed -i 's/morte$/morte, mortes/g' $1
+sed -i 's/policia$/policia, policiais, policial/g' $1
+sed -i 's/protesto$/protesto, protestos/g' $1
 
 sed -i '/ à$/d' $1
 sed -i '/ ao$/d' $1
