@@ -15,6 +15,7 @@ sed -i 's/| abc news//g' $1
 sed -i 's/| oilprice.com//g' $1
 sed -i 's/| pti//g' $1
 sed -i 's/| wnt//g' $1
+sed -i 's/| kotaku//g' $1
 
 sed -i 's/: code switch//g' $1
 sed -i 's/: report//g' $1

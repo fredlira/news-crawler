@@ -4,11 +4,11 @@
 
 echo $0 $1
 
-awk '{for(x=1;$x;++x)print $x}' news_$1.titles > news_$1.tokens
+sed "s/'/ /g" news_$1.titles | \
+sed 's/"//g' | sed 's/,//g' | awk '{for(x=1;$x;++x)print $x}' > news_$1.tokens
 
-sed -i "s/'//g" news_$1.tokens
-sed -i 's/"//g' news_$1.tokens
-sed -i 's/,//g' news_$1.tokens
+#sed -i 's/"//g' news_$1.tokens
+#sed -i 's/,//g' news_$1.tokens
 
 # sinonimos e plurais
 
