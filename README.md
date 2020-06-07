@@ -18,3 +18,7 @@
 # to use
 
 ./start.sh
+
+# to clone this project
+
+git clone https://github.com/fredlira/news-crawler.git
