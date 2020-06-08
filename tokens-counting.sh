@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# ./listing_tokens.sh $language
+# ./tokens-counting.sh $language
 
 echo $0 $1
 
@@ -10,4 +10,4 @@ uniq -c news_$1.tokens > uniq_tmp && mv uniq_tmp news_$1.tokens
 
 sort news_$1.tokens -o news_$1.tokens
 
-echo ""
+sed -i '/ 1 /d' news_$1.tokens
