@@ -34,3 +34,14 @@ if [ -z "$1" -o "$1" = "pt" ]; then
 ./tokens-renaming-language.sh news_pt.tokens
 
 fi
+
+if [ -z "$1" -o "$1" = "es" ]; then
+
+./get-news.sh elpais_internacional https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada 'xml_grep --text_only' '//item/title' es
+
+./tokens-filtering-general.sh es
+./tokens-filtering-language.sh es
+./tokens-counting.sh es
+./tokens-renaming-language.sh news_es.tokens
+
+fi
