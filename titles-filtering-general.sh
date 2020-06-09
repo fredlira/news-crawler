@@ -17,6 +17,7 @@ sed -i "s/â/—/g" $1
 
 sed -i "s/’/'/g" $1
 sed -i "s/‘/'/g" $1
+sed -i "s/   / /g" $1
 sed -i "s/  / /g" $1
 
 sed -i 's/"//g' $1

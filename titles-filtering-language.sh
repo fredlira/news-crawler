@@ -34,6 +34,8 @@ sed -i 's/- ign//g' $1
 
 sed -i 's/siuslaw news |//g' $1
 
+sed -i 's/the us/the u.s./g' $1
+
 fi
 
 if [ -z "$2" -o "$2" = "pt" ]; then

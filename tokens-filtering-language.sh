@@ -29,7 +29,10 @@ sed -i '/^back$/d' $1
 sed -i '/^but$/d' $1
 sed -i '/^by$/d' $1
 
+sed -i '/^could$/d' $1
+
 sed -i '/^do$/d' $1
+sed -i '/^don$/d' $1
 sed -i "/^don't$/d" $1
 sed -i '/^down$/d' $1
 sed -i '/^during$/d' $1
@@ -49,11 +52,13 @@ sed -i '/^for$/d' $1
 sed -i '/^from$/d' $1
 sed -i '/^full$/d' $1
 
+sed -i '/^m$/d' $1
 sed -i '/^more$/d' $1
 sed -i '/^most$/d' $1
 
 sed -i '/^new$/d' $1
 sed -i '/^news$/d' $1
+sed -i '/^no$/d' $1
 sed -i '/^not$/d' $1
 sed -i '/^now$/d' $1
 
@@ -133,11 +138,14 @@ sed -i '/^ao$/d' $1
 sed -i '/^após$/d' $1
 
 sed -i '/^com$/d' $1
+sed -i '/^como$/d' $1
 sed -i '/^contra$/d' $1
 
-sed -i '/^diz$/d' $1
 sed -i '/^da$/d' $1
+sed -i '/^das$/d' $1
 sed -i '/^de$/d' $1
+sed -i '/^dia$/d' $1
+sed -i '/^diz$/d' $1
 sed -i '/^do$/d' $1
 sed -i '/^dos$/d' $1
 sed -i '/^durante$/d' $1
@@ -146,20 +154,29 @@ sed -i '/^e$/d' $1
 sed -i '/^é$/d' $1
 sed -i '/^em$/d' $1
 
+sed -i '/^diz$/d' $1
+
 sed -i '/^mais$/d' $1
+sed -i '/^meio$/d' $1
+sed -i '/^menos$/d' $1
+sed -i '/^meses$/d' $1
 sed -i '/^mil$/d' $1
 sed -i '/^milhões$/d' $1
 
 sed -i '/^na$/d' $1
+sed -i '/^nas$/d' $1
 sed -i '/^não$/d' $1
 sed -i '/^no$/d' $1
 sed -i '/^nos$/d' $1
+sed -i '/^nova$/d' $1
+sed -i '/^novos$/d' $1
 
 sed -i '/^o$/d' $1
 sed -i '/^os$/d' $1
 
 sed -i '/^para$/d' $1
 sed -i '/^pode$/d' $1
+sed -i '/^pela$/d' $1
 sed -i '/^pelo$/d' $1
 sed -i '/^por$/d' $1
 
@@ -169,12 +186,15 @@ sed -i '/^são$/d' $1
 sed -i '/^se$/d' $1
 sed -i '/^sem$/d' $1
 sed -i '/^ser$/d' $1
+sed -i '/^será$/d' $1
 sed -i '/^sobre$/d' $1
+
+sed -i '/^tem$/d' $1
 
 sed -i '/^um$/d' $1
 sed -i '/^uma$/d' $1
 
-sed -i '/^tem$/d' $1
+sed -i '/^vai$/d' $1
 
 fi
 
