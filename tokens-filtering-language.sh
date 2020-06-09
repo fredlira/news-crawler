@@ -177,3 +177,49 @@ sed -i '/^uma$/d' $1
 sed -i '/^tem$/d' $1
 
 fi
+
+if [ -z "$1" -o "$1" = "es" ]; then
+
+set -- "news_es.tokens"
+
+sed -i '/^a$/d' $1
+sed -i '/^al$/d' $1
+
+sed -i '/^cerca$/d' $1
+sed -i '/^con$/d' $1
+sed -i '/^contra$/d' $1
+
+sed -i '/^de$/d' $1
+sed -i '/^del$/d' $1
+
+sed -i '/^el$/d' $1
+sed -i '/^en$/d' $1
+sed -i '/^es$/d' $1
+
+sed -i '/^la$/d' $1
+sed -i '/^las$/d' $1
+sed -i '/^lo$/d' $1
+sed -i '/^los$/d' $1
+
+sed -i '/^más$/d' $1
+
+sed -i '/^no$/d' $1
+sed -i '/^nueva$/d' $1
+
+sed -i '/^o$/d' $1
+
+sed -i '/^para$/d' $1
+sed -i '/^por$/d' $1
+
+sed -i '/^que$/d' $1
+sed -i '/^qué$/d' $1
+
+sed -i '/^un$/d' $1
+sed -i '/^una$/d' $1
+sed -i '/^unos$/d' $1
+
+sed -i '/^sobre$/d' $1
+
+sed -i '/^y$/d' $1
+
+fi

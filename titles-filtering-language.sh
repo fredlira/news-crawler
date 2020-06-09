@@ -43,3 +43,12 @@ if [ -z "$2" -o "$2" = "pt" ]; then
 sed -i 's/saiba mais-//g' $1
 
 fi
+
+if [ -z "$2" -o "$2" = "es" ]; then
+
+# pt
+
+sed -i 's/ee uu/ee.uu./g' $1
+
+fi
+
