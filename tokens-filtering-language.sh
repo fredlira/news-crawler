@@ -143,6 +143,7 @@ sed -i '/^ao$/d' $1
 sed -i '/^as$/d' $1
 sed -i '/^após$/d' $1
 
+sed -i '/^cai$/d' $1
 sed -i '/^com$/d' $1
 sed -i '/^como$/d' $1
 sed -i '/^contra$/d' $1
@@ -192,7 +193,9 @@ sed -i '/^pelo$/d' $1
 sed -i '/^por$/d' $1
 
 sed -i '/^que$/d' $1
+sed -i '/^quer$/d' $1
 
+sed -i '/^sabe$/d' $1
 sed -i '/^são$/d' $1
 sed -i '/^se$/d' $1
 sed -i '/^sem$/d' $1
@@ -202,6 +205,7 @@ sed -i '/^sobre$/d' $1
 
 sed -i '/^tem$/d' $1
 sed -i '/^têm$/d' $1
+sed -i '/^ter$/d' $1
 
 sed -i '/^um$/d' $1
 sed -i '/^uma$/d' $1

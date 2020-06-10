@@ -23,6 +23,7 @@ sed -i "s/  / /g" $1
 sed -i 's/"//g' $1
 sed -i 's/title=//g' $1
 
+sed -i 's/Á/á/g' $1
 sed -i 's/Ã/á/g' $1
 sed -i 's/Ã¡/á/g' $1
 sed -i 's/Ã£/ã/g' $1

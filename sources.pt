@@ -33,3 +33,10 @@ http://feeds.bbci.co.uk/portuguese/internacional/rss.xml
 'xml_grep --text_only' 
 '//item/title' 
 pt
+
+investing
+https://br.investing.com/rss/news_287.rss
+'xml_grep --text_only' 
+'//item/title' 
+pt
+
