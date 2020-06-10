@@ -27,3 +27,10 @@ https://www.aljazeera.com/xml/rss/all.xml
 'xml_grep --text_only' 
 '//item/title' 
 en
+
+wsj
+https://feeds.a.dj.com/rss/RSSWorldNews.xml
+'xml_grep --text_only' 
+'//item/title' 
+en
+

@@ -11,6 +11,8 @@ cat sources.en | xargs -n 5 ./get-news.sh
 ./tokens-counting.sh en
 ./tokens-renaming-language.sh news_en.tokens
 
+cat keywords.en | xargs -n 2 ./keywords-show.sh
+
 fi
 
 if [ -z "$1" -o "$1" = "pt" ]; then
@@ -21,6 +23,8 @@ cat sources.pt | xargs -n 5 ./get-news.sh
 ./tokens-filtering-language.sh pt
 ./tokens-counting.sh pt
 ./tokens-renaming-language.sh news_pt.tokens
+
+cat keywords.pt | xargs -n 2 ./keywords-show.sh
 
 fi
 
@@ -33,4 +37,7 @@ cat sources.es | xargs -n 5 ./get-news.sh
 ./tokens-counting.sh es
 ./tokens-renaming-language.sh news_es.tokens
 
+cat keywords.es | xargs -n 2 ./keywords-show.sh
+
 fi
+
