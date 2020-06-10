@@ -128,13 +128,19 @@ set -- "news_pt.tokens"
 
 sed -i 's/casos$/caso/g' $1
 sed -i 's/mortes$/morte/g' $1
-sed -i 's/policial$/policia/g' $1
-sed -i 's/policiais$/policia/g' $1
+
+sed -i 's/policiais$/polícia/g' $1
+sed -i 's/policia$/polícia/g' $1
+
 sed -i 's/protestos$/protesto/g' $1
+
+sed -i '/^r$$/d' $1
+sed -i '/^us$$/d' $1
 
 sed -i '/^a$/d' $1
 sed -i '/^à$/d' $1
 sed -i '/^ao$/d' $1
+sed -i '/^as$/d' $1
 sed -i '/^após$/d' $1
 
 sed -i '/^com$/d' $1
@@ -144,6 +150,7 @@ sed -i '/^contra$/d' $1
 sed -i '/^da$/d' $1
 sed -i '/^das$/d' $1
 sed -i '/^de$/d' $1
+sed -i '/^desde$/d' $1
 sed -i '/^dia$/d' $1
 sed -i '/^diz$/d' $1
 sed -i '/^do$/d' $1
@@ -153,8 +160,11 @@ sed -i '/^durante$/d' $1
 sed -i '/^e$/d' $1
 sed -i '/^é$/d' $1
 sed -i '/^em$/d' $1
+sed -i '/^entre$/d' $1
+sed -i '/^está$/d' $1
+sed -i '/^estão$/d' $1
 
-sed -i '/^diz$/d' $1
+sed -i '/^fim$/d' $1
 
 sed -i '/^mais$/d' $1
 sed -i '/^meio$/d' $1
@@ -169,6 +179,7 @@ sed -i '/^não$/d' $1
 sed -i '/^no$/d' $1
 sed -i '/^nos$/d' $1
 sed -i '/^nova$/d' $1
+sed -i '/^novo$/d' $1
 sed -i '/^novos$/d' $1
 
 sed -i '/^o$/d' $1
@@ -190,6 +201,7 @@ sed -i '/^será$/d' $1
 sed -i '/^sobre$/d' $1
 
 sed -i '/^tem$/d' $1
+sed -i '/^têm$/d' $1
 
 sed -i '/^um$/d' $1
 sed -i '/^uma$/d' $1

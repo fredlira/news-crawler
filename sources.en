@@ -21,3 +21,9 @@ https://www.nytimes.com/svc/collections/v1/publish/http://www.nytimes.com/topic/
 'xmllint --xpath' 
 '//item/title/text()' 
 en
+
+aljazeera
+https://www.aljazeera.com/xml/rss/all.xml
+'xml_grep --text_only' 
+'//item/title' 
+en

@@ -12,7 +12,7 @@ pt
 
 terra_mundo 
 https://www.terra.com.br/noticias/mundo/ 
-'xmllint --html --encode utf8 --xpath' 
+'xmllint --html --xpath' 
 '//div[@data-ga="true"]/@title' 
 pt
 
@@ -24,6 +24,12 @@ pt
 
 infomoney 
 https://www.infomoney.com.br/feed/ 
+'xml_grep --text_only' 
+'//item/title' 
+pt
+
+bbc_internacional
+http://feeds.bbci.co.uk/portuguese/internacional/rss.xml
 'xml_grep --text_only' 
 '//item/title' 
 pt

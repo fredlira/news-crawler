@@ -17,6 +17,8 @@ sed -i 's/lives$/live, lives/g' $1
 sed -i 's/times$/time, times/g' $1
 
 sed -i 's/caso$/caso, casos/g' $1
+
 sed -i 's/morte$/morte, mortes/g' $1
-sed -i 's/policia$/policia, policiais, policial/g' $1
+
+sed -i 's/polícia$/polícia, policiais/g' $1
 sed -i 's/protesto$/protesto, protestos/g' $1
