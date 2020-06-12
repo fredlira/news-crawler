@@ -43,3 +43,4 @@ sed -i 's/Âº/º/g' $1
 
 sed -i 's/&quot;/"/g' $1
 sed -i 's/&amp;/&/g' $1
+sed -i 's/amp;//g' $1

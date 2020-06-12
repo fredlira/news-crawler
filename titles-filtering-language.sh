@@ -37,6 +37,8 @@ sed -i 's/siuslaw news |//g' $1
 
 sed -i 's/the us/the united-states/g' $1
 sed -i 's/u\.s\./united-states/g' $1
+sed -i 's/north korea/north-korea/g' $1
+sed -i 's/south korea/south-korea/g' $1
 
 fi
 
@@ -54,7 +56,7 @@ if [ -z "$2" -o "$2" = "es" ]; then
 
 # pt
 
-sed -i 's/ee uu/ee.uu./g' $1
+sed -i 's/ee uu/ee-uu/g' $1
 
 fi
 
