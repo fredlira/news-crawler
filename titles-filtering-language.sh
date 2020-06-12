@@ -35,7 +35,8 @@ sed -i 's/- ign//g' $1
 
 sed -i 's/siuslaw news |//g' $1
 
-sed -i 's/the us/the u.s./g' $1
+sed -i 's/the us/the united-states/g' $1
+sed -i 's/u\.s\./united-states/g' $1
 
 fi
 

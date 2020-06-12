@@ -8,11 +8,13 @@ if [ -z "$1" -o "$1" = "en" ]; then
 
 set -- "news_en.tokens"
 
-sed -i 's/protests$/protest/g' $1
+sed -i 's/^cases$/case/g' $1
 
-sed -i 's/lives$/live/g' $1
+sed -i 's/^protests$/protest/g' $1
 
-sed -i 's/times$/time/g' $1
+sed -i 's/^lives$/live/g' $1
+
+sed -i 's/^times$/time/g' $1
 
 sed -i '/^a$/d' $1
 sed -i '/^about$/d' $1

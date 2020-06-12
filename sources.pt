@@ -22,6 +22,12 @@ https://rss.dw.com/rdf/rss-br-africa
 '//item/title' 
 pt
 
+dw_brasil
+https://rss.dw.com/rdf/rss-br-all
+'xml_grep --text_only' 
+'//item/title' 
+pt
+
 infomoney 
 https://www.infomoney.com.br/feed/ 
 'xml_grep --text_only' 
