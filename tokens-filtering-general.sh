@@ -13,6 +13,6 @@ sed 's/  / /g' | \
 sed 's/%//g' | \
 sed 's/$//g' | \
 tr -d '[:digit:]' | \
-sed 's/-$/$/g' | \
+sed 's/-$//g' | \
 
 awk '{for(x=1;$x;++x)print $x}' > news_$1.tokens

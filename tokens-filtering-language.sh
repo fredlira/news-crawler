@@ -142,6 +142,7 @@ sed -i '/^us$$/d' $1
 sed -i '/^a$/d' $1
 sed -i '/^à$/d' $1
 sed -i '/^ao$/d' $1
+sed -i '/^às$/d' $1
 sed -i '/^as$/d' $1
 sed -i '/^após$/d' $1
 
@@ -169,6 +170,7 @@ sed -i '/^estão$/d' $1
 
 sed -i '/^fim$/d' $1
 
+sed -i '/^maior$/d' $1
 sed -i '/^mais$/d' $1
 sed -i '/^meio$/d' $1
 sed -i '/^menos$/d' $1
@@ -195,6 +197,7 @@ sed -i '/^pelo$/d' $1
 sed -i '/^por$/d' $1
 
 sed -i '/^que$/d' $1
+sed -i '/^quem$/d' $1
 sed -i '/^quer$/d' $1
 
 sed -i '/^sabe$/d' $1
@@ -213,6 +216,7 @@ sed -i '/^um$/d' $1
 sed -i '/^uma$/d' $1
 
 sed -i '/^vai$/d' $1
+sed -i '/^volta$/d' $1
 
 fi
 
