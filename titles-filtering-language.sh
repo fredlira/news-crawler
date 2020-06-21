@@ -47,8 +47,11 @@ if [ -z "$2" -o "$2" = "pt" ]; then
 # pt
 
 sed -i 's/saiba mais-//g' $1
+sed -i 's/exclusivo-//g' $1
 
 sed -i 's/reino unido/reino-unido/g' $1
+sed -i 's/america latina/america-latina/g' $1
+sed -i 's/estados unidos/estados-unidos/g' $1
 
 fi
 
