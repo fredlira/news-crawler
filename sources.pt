@@ -10,6 +10,12 @@ https://g1.globo.com/rss/g1/mundo/
 '//item/title/text()' 
 pt
 
+globo_economia
+https://g1.globo.com/rss/g1/economia/
+'xmllint --xpath'
+'//item/title/text()'
+pt
+
 terra_mundo 
 https://www.terra.com.br/noticias/mundo/ 
 'xmllint --html --xpath' 
@@ -46,3 +52,8 @@ https://br.investing.com/rss/news_287.rss
 '//item/title' 
 pt
 
+uol_folha_mundo 
+https://feeds.folha.uol.com.br/mundo/rss091.xml 
+'xml_grep --text_only' 
+'//item/title' 
+pt

@@ -52,6 +52,7 @@ sed -i 's/exclusivo-//g' $1
 sed -i 's/reino unido/reino-unido/g' $1
 sed -i 's/america latina/america-latina/g' $1
 sed -i 's/estados unidos/estados-unidos/g' $1
+sed -i 's/banco mundial/banco-mundial/g'
 
 fi
 
