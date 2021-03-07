@@ -1,5 +1,11 @@
 # news-crawler
 
+0) my software setup for developing (2020-21)
+-- get some linux for windows 10 (WSL, Ubuntu-like)
+-- sudo apt-get install xml-twig-tools (to use xml_grep function)
+-- sudo apt-get install libxml2-utils (to use xmllint function)
+-- sudo apt install moreutils (to use ts function)
+
 ./get-news.sh <source_name> <source_url> <parse command> <xml_pattern> <language>
 
 1) custom parsing
