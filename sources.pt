@@ -16,12 +16,6 @@ https://g1.globo.com/rss/g1/economia/
 '//item/title/text()'
 pt
 
-terra_mundo 
-https://www.terra.com.br/noticias/mundo/ 
-'xmllint --html --xpath' 
-'//div[@data-ga="true"]/@title' 
-pt
-
 dw_africa 
 https://rss.dw.com/rdf/rss-br-africa 
 'xml_grep --text_only' 

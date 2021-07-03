@@ -133,6 +133,8 @@ sed -i 's/covid-$/covid/g' $1
 
 sed -i 's/mortes$/morte/g' $1
 
+sed -i 's/países$/país/g' $1
+
 sed -i 's/policiais$/polícia/g' $1
 sed -i 's/policia$/polícia/g' $1
 
@@ -176,6 +178,8 @@ sed -i '/^está$/d' $1
 sed -i '/^estão$/d' $1
 
 sed -i '/^fim$/d' $1
+
+sed -i '/^há$/d' $1
 
 sed -i '/^maior$/d' $1
 sed -i '/^mais$/d' $1
