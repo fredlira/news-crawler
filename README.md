@@ -1,21 +1,29 @@
 # news-crawler
 
-0) my software setup for developing (2020-21)
--- get some linux for windows 10 (WSL, Ubuntu-like)
+A) software setup for developing - and solve dependencies
+
+-- get some linux for windows (On W10: WSL, Ubuntu-like)
 -- sudo apt-get install xml-twig-tools (to use xml_grep function)
 -- sudo apt-get install libxml2-utils (to use xmllint function)
 -- sudo apt install moreutils (to use ts function)
+-- clone twitter API for shellscript - https://github.com/piroor/tweet.sh
 
+B) to run 
+./start.sh <language>
+
+C) another functions
 ./get-news.sh <source_name> <source_url> <parse command> <xml_pattern> <language>
 
-1) custom parsing
-2) titles news (lowercase all)
-3) filter titles by language
-4) tokenize words by language
-5) negative and positive words filters
-6) count frequencies of tokens
-7) sum tokens in titles news
-8) ordering titles news by tokens values
+D)
+
+D.1) custom parsing
+D.2) titles news (lowercase all)
+D.3) filter titles by language
+D.4) tokenize words by language
+D.5) negative and positive words filters
+D.6) count frequencies of tokens
+D.7) sum tokens in titles news
+D.8) ordering titles news by tokens values
 
 # example
 
