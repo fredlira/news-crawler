@@ -129,6 +129,8 @@ if [ -z "$1" -o "$1" = "pt" ]; then
 set -- "news_pt.tokens"
 
 sed -i 's/casos$/caso/g' $1
+sed -i 's/covid-$/covid/g' $1
+
 sed -i 's/mortes$/morte/g' $1
 
 sed -i 's/policiais$/polícia/g' $1
@@ -136,15 +138,20 @@ sed -i 's/policia$/polícia/g' $1
 
 sed -i 's/protestos$/protesto/g' $1
 
+sed -i '/^ª$/d' $1
+
 sed -i '/^r$$/d' $1
 sed -i '/^us$$/d' $1
 
 sed -i '/^a$/d' $1
 sed -i '/^à$/d' $1
+sed -i '/^anos$/d' $1
 sed -i '/^ao$/d' $1
+sed -i '/^aos$/d' $1
+sed -i '/^após$/d' $1
 sed -i '/^às$/d' $1
 sed -i '/^as$/d' $1
-sed -i '/^após$/d' $1
+sed -i '/^até$/d' $1
 
 sed -i '/^cai$/d' $1
 sed -i '/^com$/d' $1
