@@ -1,0 +1,5 @@
+google_news_fr
+https://news.google.com/rss?hl=fr&gl=FR&ceid=FR:fr
+'xmllint --xpath'
+'//item/title/text()'
+fr

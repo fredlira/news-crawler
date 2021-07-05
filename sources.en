@@ -1,4 +1,4 @@
-google 
+google_news_en
 https://news.google.com/rss?hl=en-US&gl=US&ceid=US:en
 'xmllint --xpath' 
 '//item/title/text()' 
