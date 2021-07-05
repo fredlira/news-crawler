@@ -1,3 +1,9 @@
+google_news_pt
+https://news.google.com/rss?hl=pt-BR&gl=BR&ceid=BR:pt-419 
+'xmllint --xpath' 
+'//item/title/text()'
+pt
+
 onu 
 https://news.un.org/feed/subscribe/pt/news/all/rss.xml 
 'xmllint --xpath' 
