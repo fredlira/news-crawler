@@ -34,3 +34,8 @@ https://feeds.a.dj.com/rss/RSSWorldNews.xml
 '//item/title' 
 en
 
+bbc_world
+http://feeds.bbci.co.uk/news/world/rss.xml
+'xmllint --xpath' 
+'//item/title/text()'
+en

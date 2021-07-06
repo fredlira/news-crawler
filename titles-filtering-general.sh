@@ -8,6 +8,11 @@ sed -i 's/\([A-Z]\)/\L\1/g' $1
 sort $1 -o $1
 uniq $1 > uniq_tmp && mv uniq_tmp $1
 
+sed -i "s/]]>//g" $1
+sed -i "s/<!//g" $1
+sed -i "s/cdata//g" $1
+sed -i "s/\[\[//g" $1
+
 sed -i "s/â/'/g" $1
 sed -i "s/â/'/g" $1
 sed -i "s/â/'/g" $1

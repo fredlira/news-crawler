@@ -28,11 +28,17 @@ sed -i 's/: code switch//g' $1
 sed -i 's/: report//g' $1
 sed -i 's/:/ -/g' $1
 
+sed -i 's/- bbc news//g' $1
 sed -i 's/- cnn//g' $1
+sed -i 's/- engadget//g' $1
+sed -i 's/- fox news//g' $1
+sed -i 's/- nbc news//g' $1
 sed -i 's/- nyt//g' $1
 sed -i 's/- thurrott.com//g' $1
 sed -i 's/- business insider//g' $1
 sed -i 's/- ign//g' $1
+sed -i 's/- the wall street journal//g' $1
+sed -i 's/- live updates//g' $1
 
 sed -i 's/siuslaw news |//g' $1
 
@@ -47,7 +53,11 @@ if [ -z "$2" -o "$2" = "pt" ]; then
 
 # pt
 
+sed -i 's/- espn.com.br//g' $1
 sed -i 's/- g1//g' $1
+sed -i 's/- o tempo//g' $1
+sed -i 's/- torcedores.com//g' $1
+
 sed -i 's/saiba mais-//g' $1
 sed -i 's/exclusivo-//g' $1
 

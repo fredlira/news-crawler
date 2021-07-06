@@ -57,3 +57,9 @@ https://feeds.folha.uol.com.br/mundo/rss091.xml
 'xml_grep --text_only' 
 '//item/title' 
 pt
+
+rtp
+https://www.rtp.pt/noticias/rss/mundo
+'xmllint --xpath'
+'//item/title/text()'
+pt
