@@ -1,3 +1,9 @@
+google_news_es
+https://news.google.com/rss?hl=es-419&gl=US&ceid=US:es-419
+'xmllint --xpath'
+'//item/title/text()'
+es
+
 elpais_internacional 
 https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/section/internacional/portada 
 'xml_grep --text_only' 

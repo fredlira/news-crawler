@@ -227,6 +227,7 @@ sed -i '/^um$/d' $1
 sed -i '/^uma$/d' $1
 
 sed -i '/^vai$/d' $1
+sed -i '/^veja$/d' $1
 sed -i '/^volta$/d' $1
 
 fi
@@ -257,9 +258,11 @@ sed -i '/^los$/d' $1
 sed -i '/^más$/d' $1
 
 sed -i '/^no$/d' $1
+sed -i '/^noticias$/d' $1
 sed -i '/^nueva$/d' $1
 
 sed -i '/^o$/d' $1
+sed -i '/^otras$/d' $1
 
 sed -i '/^para$/d' $1
 sed -i '/^por$/d' $1
@@ -271,6 +274,7 @@ sed -i '/^un$/d' $1
 sed -i '/^una$/d' $1
 sed -i '/^unos$/d' $1
 
+sed -i '/^se$/d' $1
 sed -i '/^sobre$/d' $1
 
 sed -i '/^y$/d' $1
