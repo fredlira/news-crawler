@@ -63,3 +63,9 @@ https://www.rtp.pt/noticias/rss/mundo
 'xmllint --xpath'
 '//item/title/text()'
 pt
+
+elpais
+https://feeds.elpais.com/mrss-s/pages/ep/site/brasil.elpais.com/portada
+'xmllint --xpath'
+'//item/title/text()'
+pt

@@ -39,3 +39,9 @@ http://feeds.bbci.co.uk/news/world/rss.xml
 'xmllint --xpath' 
 '//item/title/text()'
 en
+
+diplomatie_gouv_fr
+'https://www.diplomatie.gouv.fr/spip.php?page=backend-fd&lang=en'
+'xmllint --xpath'
+'//item/title/text()'
+en

@@ -29,16 +29,36 @@ sed -i 's/: report//g' $1
 sed -i 's/:/ -/g' $1
 
 sed -i 's/- bbc news//g' $1
+sed -i 's/- bloomberg//g' $1
+sed -i 's/- business insider//g' $1
+
+sed -i 's/- cbs news//g' $1
+sed -i 's/- cnbc//g' $1
 sed -i 's/- cnn//g' $1
+
 sed -i 's/- engadget//g' $1
+sed -i 's/- espn//g' $1
+
+sed -i 's/- fox business//g' $1
 sed -i 's/- fox news//g' $1
+
+sed -i 's/- ign//g' $1
+sed -i 's/- live updates//g' $1
+
 sed -i 's/- nbc news//g' $1
 sed -i 's/- nyt//g' $1
-sed -i 's/- thurrott.com//g' $1
-sed -i 's/- business insider//g' $1
-sed -i 's/- ign//g' $1
+
+sed -i 's/- politico//g' $1
+
+sed -i 's/- scitechdaily//g' $1
+sed -i 's/- sports illustrated//g' $1
+
+sed -i 's/- the new york times//g' $1
 sed -i 's/- the wall street journal//g' $1
-sed -i 's/- live updates//g' $1
+sed -i 's/- thurrott.com//g' $1
+sed -i 's/- tmz//g' $1
+
+sed -i 's/- yahoo finance//g' $1
 
 sed -i 's/siuslaw news |//g' $1
 
