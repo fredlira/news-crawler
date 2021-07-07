@@ -317,3 +317,559 @@
 2021.07.05 {bbcnews_americalatina}, ¿por qué internet en venezuela es tan lento?
 2021.07.05 {bbcnews_americalatina}, ¿por qué venezuela es tan buen pagador con wall street?
 2021.07.05 {bbcnews_americalatina}, ¿puede conviasa resolver la crisis de las aerolíneas en venezuela?
+2021.07.06 {google_news_es}, 'gorda' y 'mala madre', esos eran algunos de los insultos de jamie spears a su hija britney - diario la prensa - la prensa de honduras
+2021.07.06 {google_news_es}, al menos 150 muertos en eeuu en más de 400 tiroteos durante las celebraciones del 4 de julio - infobae
+2021.07.06 {google_news_es}, avión de pasajeros se estrella en el lejano oriente de rusia - cnn
+2021.07.06 {google_news_es}, como 'una victoria de los pueblos' califican el fallo por crimen de berta cáceres - diario la prensa - la prensa de honduras
+2021.07.06 {google_news_es}, con el título de copa américa en la mira, messi vivirá la semana clave de su carrera - mediotiempo
+2021.07.06 {google_news_es}, con un mensaje en la mano encuentran cuerpo de la actriz porno 'kris the foxx' - diario metro de puerto rico
+2021.07.06 {google_news_es}, derrumbe en miami: redoblan las labores de búsqueda de víctimas | noticias univision estados unidos - univision
+2021.07.06 {google_news_es}, el pentágono anunció que la retirada de estados unidos de afganistán se completó en un 90% - infobae
+2021.07.06 {google_news_es}, el pentágono decidió cancelar un contrato de usd 10.000 millones con microsoft - infobae
+2021.07.06 {google_news_es}, el régimen de daniel ortega detuvo al sexto aspirante presidencial de la oposición en nicaragua - infobae
+2021.07.06 {google_news_es}, en vivo: autoridades en miami ofrecen nuevos detalles sobre la búsqueda y rescate en surfside - noticias telemundo
+2021.07.06 {google_news_es}, florida se prepara para una marejada ciclónica potencialmente mortal antes de la tormenta tropical elsa - cnn
+2021.07.06 {google_news_es}, google retira aplicaciones que robaban contraseñas de facebook - digital trends español
+2021.07.06 {google_news_es}, highlights | italia 1(4)-(2)1 españa | uefa euro 2020 | semifinal | tudn - tudn usa
+2021.07.06 {google_news_es}, investigan muerte de niño tras vacunarse contra el covid-19 | noticias telemundo - noticias telemundo
+2021.07.06 {google_news_es}, italia vs. españa - reporte del partido - 6 julio, 2021 - espn
+2021.07.06 {google_news_es}, jeff bezos deja el cargo de director general de amazon tras 27 años - rt en español
+2021.07.06 {google_news_es}, jennifer lopez usa este spray antiencrespamiento de amazon - womenshealthmag.com
+2021.07.06 {google_news_es}, jennifer lopez, en su primera entrevista tras su reconciliación con ben affleck: 'nunca he estado mejor' - yahoo style
+2021.07.06 {google_news_es}, las nietas de biden se roban las miradas en la fiesta por la independencia de la casa blanca - diario la prensa - la prensa de honduras
+2021.07.06 {google_news_es}, michelle bachelet considera “un ejemplo preocupante” la detención de tres defensores de derechos humanos en venezuela - cnn
+2021.07.06 {google_news_es}, muere a los 91 años richard donner, director de 'superman', 'los goonies' y 'arma letal' - rt en español
+2021.07.06 {google_news_es}, muere raffaella carrà, la cantante sensual que puso a bailar a los cubanos - diario 14ymedio
+2021.07.06 {google_news_es}, oficial: los jugadores de chivas que disputarán los juegos olímpicos de tokio 2020 - chivas pasión - bolavip
+2021.07.06 {google_news_es}, papa francisco se está recuperando bien de la operación quirúrgica, informa el vaticano - aci prensa
+2021.07.06 {google_news_es}, piratas informáticos exigen $70 millones para desbloquear un millón de dispositivos telemundo - telemundo
+2021.07.06 {google_news_es}, por qué es tan complicado invertir en acciones de empresas chinas - infobae
+2021.07.06 {google_news_es}, un adolescente de 13 años murió mientras dormía; fue vacunado contra el covid-19 tres días antes - el diario ny
+2021.07.06 {google_news_es}, un hueso de 51.000 años revela la capacidad simbólica de los neandertales - listín diario
+2021.07.06 {google_news_es}, un niño hispano muere tras accidente en un parque acuático | noticias telemundo - noticias telemundo
+2021.07.06 {google_news_es}, una vacuna con las variantes en la mira - el diario
+2021.07.06 {google_news_es}, videojuegos en japón, una tradición con más de 40 años de vida - mediotiempo
+2021.07.06 {google_news_es}, Últimas noticias y rumores de la nba - fansided es
+2021.07.06 {elpais_internacional}, bielorrusia condena al líder opositor viktor babariko a 14 años de cárcel
+2021.07.06 {elpais_internacional}, bolsonaro puede haber matado y robado a la vez
+2021.07.06 {elpais_internacional}, con los lectores
+2021.07.06 {elpais_internacional}, condenado el expresidente de la constructora desa por el asesinato de la ambientalista hondureña berta cáceres
+2021.07.06 {elpais_internacional}, derecha-extrema-derecha
+2021.07.06 {elpais_internacional}, el cartel jalisco nueva generación desafía al estado y desfila por aguililla con el rostro descubierto
+2021.07.06 {elpais_internacional}, el congreso de países bajos considera genocidio los crímenes contra los yazidíes
+2021.07.06 {elpais_internacional}, el gobierno de boris johnson endurece la ley contra los inmigrantes irregulares
+2021.07.06 {elpais_internacional}, el nuevo gobierno de israel se tambalea por una ley que discrimina a los palestinos
+2021.07.06 {elpais_internacional}, el parlamento europeo exige al primer ministro esloveno que respete la libertad de prensa
+2021.07.06 {elpais_internacional}, el pentágono cancela con microsoft un contrato por 10.000 millones de dólares para almacenar datos en la nube 
+2021.07.06 {elpais_internacional}, el regreso de los 'homicidios ejemplarizantes' a colombia
+2021.07.06 {elpais_internacional}, la tormenta tropical elsa obliga a evacuar a más de 200.000 personas en cuba
+2021.07.06 {elpais_internacional}, los días tristes del payaso grillo
+2021.07.06 {elpais_internacional}, merkel insta a acelerar el proceso de ampliación de la ue hacia los balcanes
+2021.07.06 {elpais_internacional}, merkel y macron buscan acercarse a china pese a los recelos de biden 
+2021.07.06 {elpais_internacional}, nicaragua: criminales
+2021.07.06 {elpais_internacional}, nueva york declara el estado de emergencia para afrontar el fenómeno de la violencia armada
+2021.07.06 {elpais_internacional}, ortega encarcela a líderes estudiantiles y del movimiento campesino en nicaragua
+2021.07.06 {elpais_internacional}, presidentes de altos tribunales europeos y americanos piden que se evite politizar la justicia
+2021.07.06 {elpais_internacional}, putin decreta que solo es champán el vino espumoso fabricado en rusia
+2021.07.06 {elpais_internacional}, tiroteado en ámsterdam un conocido periodista holandés que investiga el crimen organizado
+2021.07.06 {elpais_internacional}, un avión ruso con 28 personas a bordo se estrella en las inmediaciones de la península de kamchatka
+2021.07.06 {elpais_internacional}, un grupo de hombres armados secuestra a unos 140 estudiantes en el noroeste de nigeria
+2021.07.06 {elpais_internacional}, una modelo yemení encarcelada por desafiar la estrecha moral de los rebeldes huthi
+2021.07.06 {bbcnews_internacional}, nos trataron como perros: migrantes hablan del horror del naufragio en malta
+2021.07.06 {bbcnews_internacional}, una ilusión tomar fotos en la casa blanca
+2021.07.06 {bbcnews_internacional}, acciones de alibaba en bolsa de nueva york alcanzan los us$90 
+2021.07.06 {bbcnews_internacional}, agricultores franceses queman edificios públicos en protesta
+2021.07.06 {bbcnews_internacional}, air france ofrece tregua a trabajadores en huelga
+2021.07.06 {bbcnews_internacional}, al menos 30 muertos en ataque de boko haram en nigeria
+2021.07.06 {bbcnews_internacional}, al menos un muerto en atentado contra mezquita chiita en pakistán
+2021.07.06 {bbcnews_internacional}, ante la amenaza de e. islámico, se acercan irán y arabia saudita
+2021.07.06 {bbcnews_internacional}, antes y después: la destrucción de los monumentos más importantes de siria
+2021.07.06 {bbcnews_internacional}, australia anuncia nuevas leyes antiterroristas
+2021.07.06 {bbcnews_internacional}, australia: cazador sobrevive a ataque de cocodrilo golpéandole el ojo
+2021.07.06 {bbcnews_internacional}, australia: murió hombre que había amenazado al primer ministro
+2021.07.06 {bbcnews_internacional}, barack obama felicitó a los escoceses por la participación en el referendo
+2021.07.06 {bbcnews_internacional}, boletín: más de 130.000 sirios kurdos cruzan a turquía huyendo de estado islámico y otras noticias
+2021.07.06 {bbcnews_internacional}, boletín: primer ataque de ee.uu. y aliados árabes contra estado islámico en siria y otras noticias
+2021.07.06 {bbcnews_internacional}, camboya decomisa us$7,1 millones en billetes falsos
+2021.07.06 {bbcnews_internacional}, candidatos presidenciales afganos acuerdan compartir el poder
+2021.07.06 {bbcnews_internacional}, cazabombarderos de ee.uu. interceptan aviones militares rusos acercándose a alaska
+2021.07.06 {bbcnews_internacional}, china: condenan por separatista a académico uigur
+2021.07.06 {bbcnews_internacional}, china: dos personas mueren por explosiones en xinjiang
+2021.07.06 {bbcnews_internacional}, confirman victoria oficialista en elecciones de fiji
+2021.07.06 {bbcnews_internacional}, cuán moderados son los rebeldes que ee.uu. quiere armar en siria
+2021.07.06 {bbcnews_internacional}, desaparecen tres soldados afganos en ee.uu.
+2021.07.06 {bbcnews_internacional}, disturbios en glasgow entre independentistas y unionistas
+2021.07.06 {bbcnews_internacional}, ee.uu. y países aliados realizan primeros ataques contra estado islámico en siria
+2021.07.06 {bbcnews_internacional}, ee.uu.: obama destaca ayuda de países árabes contra estado islámico
+2021.07.06 {bbcnews_internacional}, ee.uu.: secretario de seguridad nacional revisará fallas de seguridad en la casa blanca
+2021.07.06 {bbcnews_internacional}, ee.uu.: tres soldados afganos desaparecidos fueron hallados en la frontera con canadá
+2021.07.06 {bbcnews_internacional}, el drama de 4 vidas entre los escombros en gaza
+2021.07.06 {bbcnews_internacional}, el expresidente francés nicolas sarkozy volverá a la política
+2021.07.06 {bbcnews_internacional}, el grupo yihadista estado islámico libera a 49 rehenes turcos
+2021.07.06 {bbcnews_internacional}, en qué se parecen y se diferencian escocia y cataluña
+2021.07.06 {bbcnews_internacional}, escocia: alex salmond, líder del sí, anuncia que renunciará
+2021.07.06 {bbcnews_internacional}, españa: cataluña aprobó ley de consultas para convocar referendo
+2021.07.06 {bbcnews_internacional}, españa: mariano rajoy retiró reforma a la ley del aborto
+2021.07.06 {bbcnews_internacional}, esposa de rehén británico pide a ei su liberación
+2021.07.06 {bbcnews_internacional}, estado islámico amenazó a ciudadanos de los países de la coalición con ee.uu.
+2021.07.06 {bbcnews_internacional}, estado islámico difunde nuevo video de rehén británico
+2021.07.06 {bbcnews_internacional}, estado islámico: el drama de la masiva huida de refugiados sirios kurdos hacia turquía
+2021.07.06 {bbcnews_internacional}, estados unidos: inicia manifestación de inunda wall street en nueva york
+2021.07.06 {bbcnews_internacional}, estudiantes de hong kong protestan contra china
+2021.07.06 {bbcnews_internacional}, familia rockefeller se desprenderá de inversiones en combustibles fósiles
+2021.07.06 {bbcnews_internacional}, filipinas: al menos diez muertos por tormenta tropical fung-wong
+2021.07.06 {bbcnews_internacional}, francia confirma secuestro de uno de sus ciudadanos en argelia
+2021.07.06 {bbcnews_internacional}, francia y reino unido firman acuerdo para combatir inmigración en calais
+2021.07.06 {bbcnews_internacional}, francia: hombre fingió su funeral para escapar de la cárcel
+2021.07.06 {bbcnews_internacional}, francia: huelga en air france se extenderá hasta el próximo viernes
+2021.07.06 {bbcnews_internacional}, francia: tribunal supremo amplió derechos para matrimonios homosexuales
+2021.07.06 {bbcnews_internacional}, gobierno británico niega que incumplirá promesas de darle más poder a escocia
+2021.07.06 {bbcnews_internacional}, gobierno y rebeldes firman acuerdo para poner fin a crisis en yemen
+2021.07.06 {bbcnews_internacional}, india no es lugar para al qaeda, dice primer ministro modi
+2021.07.06 {bbcnews_internacional}, intruso dispara alarmas en la casa blanca
+2021.07.06 {bbcnews_internacional}, intruso que saltó la verja de la casa blanca llegó a alcanzar la entrada
+2021.07.06 {bbcnews_internacional}, irán: 11 arrestados por insultar al ayatolá jamenei en aplicaciones de mensajería
+2021.07.06 {bbcnews_internacional}, isabel ii pidió respetar el resultado del referendo en escocia
+2021.07.06 {bbcnews_internacional}, israel derriba avión de guerra sirio
+2021.07.06 {bbcnews_internacional}, israel mata a sospechosos de secuestro de adolescentes
+2021.07.06 {bbcnews_internacional}, jordania admite participación en campaña contra estado islámico
+2021.07.06 {bbcnews_internacional}, justicia de ee.uu. declara a banco jordano responsable de enviar fondos a hamas
+2021.07.06 {bbcnews_internacional}, kenia recuerda víctimas de atentado en centro comercial de nairobi
+2021.07.06 {bbcnews_internacional}, kerry anima a irán a sumarse al esfuerzo contra radicales de estado islámico
+2021.07.06 {bbcnews_internacional}, la casa blanca aumenta la seguridad tras dos intrusiones consecutivas
+2021.07.06 {bbcnews_internacional}, la corte penal internacional cita al presidente de kenia
+2021.07.06 {bbcnews_internacional}, la moda de los candados en los puentes, ¿romance o epidemia?
+2021.07.06 {bbcnews_internacional}, las fallas de seguridad que harán más difícil tomarse una foto en la casa blanca
+2021.07.06 {bbcnews_internacional}, las misteriosas explosiones que sacuden las calles de londres
+2021.07.06 {bbcnews_internacional}, los grandes riesgos que enfrenta la coalición internacional contra estado islámico
+2021.07.06 {bbcnews_internacional}, los rusos que se oponen a putin por la crisis en ucrania
+2021.07.06 {bbcnews_internacional}, líbano: dos soldados muertos por ataque en la frontera con siria
+2021.07.06 {bbcnews_internacional}, líderes de 125 países se reúnen para debatir sobre cambio climático
+2021.07.06 {bbcnews_internacional}, miles de personas participan en jornada mundial de protestas por cambio climático
+2021.07.06 {bbcnews_internacional}, miles de personas protestan en moscú contra conflicto en ucrania
+2021.07.06 {bbcnews_internacional}, milicianos chiitas invaden la capital de yemen
+2021.07.06 {bbcnews_internacional}, minuto a minuto: escocia dice no a la independencia de reino unido
+2021.07.06 {bbcnews_internacional}, nepal: hombre muere después de pasar 329 días en huelga de hambre
+2021.07.06 {bbcnews_internacional}, nigeria: 115 sudafricanos murieron en el colapso de iglesia evangélica
+2021.07.06 {bbcnews_internacional}, nueva zelanda: partido nacionalista logra reelección por tercera vez
+2021.07.06 {bbcnews_internacional}, oms afirmó que 2.800 personas han muerto a causa del Ébola
+2021.07.06 {bbcnews_internacional}, onu anuncia acuerdo para resolver la crisis de yemen
+2021.07.06 {bbcnews_internacional}, otan: el cese el fuego en ucrania es sólo de nombre 
+2021.07.06 {bbcnews_internacional}, papa francisco oficia misa multitudinaria en la capital albanesa
+2021.07.06 {bbcnews_internacional}, primer ministro interino de fiji se autoproclama ganador de elecciones
+2021.07.06 {bbcnews_internacional}, referendo en escocia: ex primer ministro gordon brown pide dejar atrás las diferencias 
+2021.07.06 {bbcnews_internacional}, segundo arresto consecutivo por intento de entrar en la casa blanca
+2021.07.06 {bbcnews_internacional}, según investigadores, asaltante de la casa blanca tenía armamento en su vehículo 
+2021.07.06 {bbcnews_internacional}, siemens compra firma de petróleo y gas en ee.uu.
+2021.07.06 {bbcnews_internacional}, tormenta tropical fung-wong deja 5 muertos en filipinas
+2021.07.06 {bbcnews_internacional}, turquía cierra cruces fronterizos con siria
+2021.07.06 {bbcnews_internacional}, turquía: 40.000 refugiados cruzaron la frontera desde siria
+2021.07.06 {bbcnews_internacional}, turquía: recepción multitudinaria a rehenes rescatados
+2021.07.06 {bbcnews_internacional}, turquía: unos 130 mil refugiados kurdos han atravesado la frontera desde siria
+2021.07.06 {bbcnews_internacional}, ucrania alcanza un acuerdo de paz con los rebeldes prorrusos
+2021.07.06 {bbcnews_internacional}, ucrania prepara retirada de artillería del este del país
+2021.07.06 {bbcnews_internacional}, ucrania: acuerdan desmilitarizar franja de 30 kilómetros
+2021.07.06 {bbcnews_internacional}, un tigre blanco atacó y mató a un adolescente en india
+2021.07.06 {bbcnews_internacional}, vea las imágenes de las explosiones en las aceras de londres
+2021.07.06 {bbcnews_internacional}, vea las primeras imágenes de los ataques contra estado islámico en siria
+2021.07.06 {bbcnews_internacional}, yemen: renuncia primer ministro 
+2021.07.06 {bbcnews_internacional}, yihadistas de estado islámico toman 60 pueblos cerca de la frontera con turquía
+2021.07.06 {bbcnews_internacional}, ¿por qué las apuestas predijeron mejor que las encuestas el referendo de escocia? 
+2021.07.06 {bbcnews_americalatina}, alertan sobre nuevo derrame tóxico en méxico
+2021.07.06 {bbcnews_americalatina}, argentina aprueba ley de abastecimiento, con resistencia de oposición y empresarios
+2021.07.06 {bbcnews_americalatina}, argentina enjuicia médicos que robaron bebés durante la guerra sucia
+2021.07.06 {bbcnews_americalatina}, arrestan a tres personas que portaban explosivos en chile
+2021.07.06 {bbcnews_americalatina}, boletín: ee.uu. lanza primera operación de su nueva estrategia contra ei y otras noticias
+2021.07.06 {bbcnews_americalatina}, boletín: ee.uu. lleva a cabo ejercicios militares en ucrania y otras noticias
+2021.07.06 {bbcnews_americalatina}, boletín: escocia decide si se independiza o no de reino unido y otras noticias
+2021.07.06 {bbcnews_americalatina}, boletín: escocia rechaza la independencia de reino unido y otras noticias
+2021.07.06 {bbcnews_americalatina}, boletín: más de 130.000 sirios kurdos cruzan a turquía huyendo de estado islámico y otras noticias
+2021.07.06 {bbcnews_americalatina}, boletín: pistorius, culpable de homicidio culposo y otras noticias
+2021.07.06 {bbcnews_americalatina}, boletín: primer ataque de ee.uu. y aliados árabes contra estado islámico en siria y otras noticias
+2021.07.06 {bbcnews_americalatina}, boletín: último día de campaña para el referendo en escocia y otras noticias
+2021.07.06 {bbcnews_americalatina}, brasil construye torre en el amazonas para monitorear el clima
+2021.07.06 {bbcnews_americalatina}, brasil: operativo para desmantelar red de policías envueltos en casos de soborno
+2021.07.06 {bbcnews_americalatina}, byron lima, el preso más poderoso de guatemala
+2021.07.06 {bbcnews_americalatina}, canciller argentino cita a embajador interino de ee.uu. por críticar estrategia con fondos buitre
+2021.07.06 {bbcnews_americalatina}, chile: detienen a sospechoso de colocar bomba en metro de santiago
+2021.07.06 {bbcnews_americalatina}, chile: liberan a diputado procesado por muerte a opositores de pinochet
+2021.07.06 {bbcnews_americalatina}, chile: roban us$3,3 millones a la casa de empeño tía rica
+2021.07.06 {bbcnews_americalatina}, ciclistas colombianas no cambiarán su uniforme al desnudo
+2021.07.06 {bbcnews_americalatina}, colombia: somos unos vivientes muertos
+2021.07.06 {bbcnews_americalatina}, colombia: matan a dos contratistas que reparaban oleoducto de ecopetrol
+2021.07.06 {bbcnews_americalatina}, colombia: policía incauta más de dos toneladas de droga
+2021.07.06 {bbcnews_americalatina}, colombia: uribe lleva a la justicia a senador por recibir dinero del narco
+2021.07.06 {bbcnews_americalatina}, conexión precoz: una aventura con nauta
+2021.07.06 {bbcnews_americalatina}, corte chilena rechaza dejar en libertad a acusado de muerte de víctor jara
+2021.07.06 {bbcnews_americalatina}, cristina fernández dice estar amenazada por el grupo radical estado islámico
+2021.07.06 {bbcnews_americalatina}, cuba enviará asistencia médica a sierra leona para combatir ébola
+2021.07.06 {bbcnews_americalatina}, cómo leer las encuestas de brasil sin enloquecer en el intento
+2021.07.06 {bbcnews_americalatina}, cómo operan las mafias del multimillonario negocio de la madera ilegal en perú
+2021.07.06 {bbcnews_americalatina}, decenas de detenidos en desalojo de un edificio ocupado en são paulo
+2021.07.06 {bbcnews_americalatina}, destrucción y saqueos en baja california sur tras el paso del huracán odile
+2021.07.06 {bbcnews_americalatina}, dos británicos desaparecidos en méxico por huracán odile
+2021.07.06 {bbcnews_americalatina}, ecuador: correa convoca a sus partidarios a marcha de apoyo a su gestión
+2021.07.06 {bbcnews_americalatina}, ecuador: violentos disturbios en quito tras multitudinaria protesta contra correa
+2021.07.06 {bbcnews_americalatina}, ee.uu. dice que venezuela y bolivia han fallado en sus acuerdos antinarcóticos
+2021.07.06 {bbcnews_americalatina}, el debate contra uribe que encendió al congreso colombiano
+2021.07.06 {bbcnews_americalatina}, el embajador chileno que se salvó de morir en un carro bomba en washington
+2021.07.06 {bbcnews_americalatina}, el futbolista argentino jonás gutiérrez tiene cáncer testicular
+2021.07.06 {bbcnews_americalatina}, el gobierno de ecuador anuncia acciones judiciales contra manifestantes
+2021.07.06 {bbcnews_americalatina}, el gobierno de méxico investiga concierto de miley cyrus por gesto con la bandera
+2021.07.06 {bbcnews_americalatina}, el vestido de la mujer más odiada de méxico
+2021.07.06 {bbcnews_americalatina}, establecen comisión para investigar tala ilegal en perú
+2021.07.06 {bbcnews_americalatina}, estrato 1, estrato 6: cómo los colombianos hablan de sí mismos divididos en clases sociales
+2021.07.06 {bbcnews_americalatina}, evo morales dice que le gustaría abrir un restaurante cuando deje el poder
+2021.07.06 {bbcnews_americalatina}, fallece la actriz uruguaya china zorrilla 
+2021.07.06 {bbcnews_americalatina}, fao: brasil redujo tasa de desnutrición a la mitad
+2021.07.06 {bbcnews_americalatina}, fernández denuncia que con caso fondos buitres quieren poner de rodillas a argentina
+2021.07.06 {bbcnews_americalatina}, guatemala: detienen a cuatro policías por supuesta implicación en secuestro
+2021.07.06 {bbcnews_americalatina}, guatemala: seis muertos en enfrentamiento por construcción de carretera
+2021.07.06 {bbcnews_americalatina}, huracán odile toca tierra en méxico y cae a categoría 2
+2021.07.06 {bbcnews_americalatina}, inauguran memorial de víctor jara en santiago de chile
+2021.07.06 {bbcnews_americalatina}, informe advierte sobre falso dilema entre economía y ambiente
+2021.07.06 {bbcnews_americalatina}, juan gabriel valdés: no puedo más que pensar en eso 
+2021.07.06 {bbcnews_americalatina}, la bebé brasileña con dos madres y un padre
+2021.07.06 {bbcnews_americalatina}, la tormenta polo se convierte en huracán frente a las costas mexicanas
+2021.07.06 {bbcnews_americalatina}, las dos vidas de cantinflas
+2021.07.06 {bbcnews_americalatina}, las millonarias demandas que afectan al exfutbolista chileno iván zamorano 
+2021.07.06 {bbcnews_americalatina}, las mujeres que desafían la violencia en la capital colombiana del horror
+2021.07.06 {bbcnews_americalatina}, lo que se sabe sobre la misteriosa enfermedad que desconcierta a los médicos en venezuela
+2021.07.06 {bbcnews_americalatina}, loma miranda: el controvertido veto que dejó en shock a los dominicanos
+2021.07.06 {bbcnews_americalatina}, los consejos del nobel mexicano que descubrió gases del agujero de ozono
+2021.07.06 {bbcnews_americalatina}, los inodoros que ayudan a los haitianos a cultivar sus alimentos
+2021.07.06 {bbcnews_americalatina}, los secretos del caribe que buscan los científicos en los cuadernos de hemingway
+2021.07.06 {bbcnews_americalatina}, maduro anuncia un plan de desarme de civiles en venezuela
+2021.07.06 {bbcnews_americalatina}, manifestación en bogotá por la muerte del joven sergio urrego
+2021.07.06 {bbcnews_americalatina}, maría conchita alonso: no hay que matarlos, pero hay que sacar a los comunistas del país
+2021.07.06 {bbcnews_americalatina}, miley cyrus y otras grandes polémicas con artistas en méxico
+2021.07.06 {bbcnews_americalatina}, méxico azotado por el huracán odile: estaba todo destruido
+2021.07.06 {bbcnews_americalatina}, méxico: empiezan a evacuar turistas varados por odile
+2021.07.06 {bbcnews_americalatina}, méxico: encuentran cadáver de británica desaparecida por huracán odile
+2021.07.06 {bbcnews_americalatina}, méxico: hallan muerto a hermano del líder de los templarios
+2021.07.06 {bbcnews_americalatina}, méxico: sigue escándalo por insulto racista contra ronaldinho
+2021.07.06 {bbcnews_americalatina}, méxico: surgen grupos de autodefensa tras saqueos en baja california
+2021.07.06 {bbcnews_americalatina}, nueva jornada de disturbios en ecuador
+2021.07.06 {bbcnews_americalatina}, obama designa a maría echaveste como nueva embajadora de ee.uu. en méxico
+2021.07.06 {bbcnews_americalatina}, perú descarta recibir presos de guantánamo tras consulta de ee.uu.
+2021.07.06 {bbcnews_americalatina}, perú: investigan a congresista por vínculo con supuesto narcotraficante mexicano
+2021.07.06 {bbcnews_americalatina}, polémica por las barbie y ken religiosos en argentina
+2021.07.06 {bbcnews_americalatina}, por qué es tan difícil hablar por celular en argentina
+2021.07.06 {bbcnews_americalatina}, protestas violentas en caracas dejan más de 20 detenidos
+2021.07.06 {bbcnews_americalatina}, quién es el otro chapo que gana poder en méxico
+2021.07.06 {bbcnews_americalatina}, qué significa la liberación de iván simonovis, el preso político más simbólico de venezuela 
+2021.07.06 {bbcnews_americalatina}, roban al arzobispo de río de janeiro en plena vía
+2021.07.06 {bbcnews_americalatina}, río seguirá con pacificación de favelas tras muerte de comandante policial
+2021.07.06 {bbcnews_americalatina}, santos: no le estoy dando el país a las farc
+2021.07.06 {bbcnews_americalatina}, siete policías muertos en ataque de las farc en colombia
+2021.07.06 {bbcnews_americalatina}, suspenden un vuelo en argentina por una falsa amenaza de bomba
+2021.07.06 {bbcnews_americalatina}, trasladan a expresidente salvadoreño a celda común
+2021.07.06 {bbcnews_americalatina}, un inodoro para combatir enfermedades 
+2021.07.06 {bbcnews_americalatina}, venezuela inicia proceso para revocar nacionalidad a la actriz maría conchita alonso
+2021.07.06 {bbcnews_americalatina}, venezuela: casa por cárcel para el comisario iván simonovis, prominente símbolo opositor
+2021.07.06 {bbcnews_americalatina}, venezuela: despiden a caricaturista del diario el universal por viñeta sobre crisis de salud
+2021.07.06 {bbcnews_americalatina}, venezuela: juzgarán en libertad a líder estudiantil detenida en protestas opositoras
+2021.07.06 {bbcnews_americalatina}, vuelven a posponer el juicio a leopoldo lópez
+2021.07.06 {bbcnews_americalatina}, ¿cómo se convirtió cuba en una potencia humanitaria?
+2021.07.06 {bbcnews_americalatina}, ¿por qué brasil construye una torre más alta que la eiffel en medio del amazonas?
+2021.07.06 {bbcnews_americalatina}, ¿por qué internet en venezuela es tan lento?
+2021.07.06 {bbcnews_americalatina}, ¿por qué venezuela es tan buen pagador con wall street?
+2021.07.06 {bbcnews_americalatina}, ¿puede conviasa resolver la crisis de las aerolíneas en venezuela?
+2021.07.06 {abc_es_internacional}, al menos 140 estudiantes secuestrados en el norte de nigeria
+2021.07.06 {abc_es_internacional}, bielorrusia deja pasar a cientos de iraquíes para llenar a lituania de refugiados
+2021.07.06 {abc_es_internacional}, blanca navidad en kabul
+2021.07.06 {abc_es_internacional}, declaran culpable del asesinato de berta cáceres al expresidente de la empresa hidroeléctrica desa
+2021.07.06 {abc_es_internacional}, derribado un dron con explosivos sobre la embajada de ee.uu. en irak
+2021.07.06 {abc_es_internacional}, detienen a dos excomandantes en bolivia por forzar la salida de evo morales del poder
+2021.07.06 {abc_es_internacional}, el presidente de haití lleva más de un año de gobierno por decreto amparado en la pandemia
+2021.07.06 {abc_es_internacional}, guaidó muestra a cuentagotas su interés por las megaelecciones de noviembre
+2021.07.06 {abc_es_internacional}, joe biden: «la covid ya no controla las vidas de los ciudadanos ni paraliza la nación»
+2021.07.06 {abc_es_internacional}, johnson anuncia una apertura total: adiós a la mascarilla, la distancia social y la cuarentena
+2021.07.06 {abc_es_internacional}, la policía de nicaragua detiene a líderes universitarios y campesinos
+2021.07.06 {abc_es_internacional}, los talibán han ocupado 28 distritos afganos en una semana tras la salida de los soldados extranjeros
+2021.07.06 {abc_es_internacional}, maduro no logra frenar la investigación de la cpi por crímenes de lesa humanidad
+2021.07.06 {abc_es_internacional}, más de mil soldados afganos huyen de los talibanes y se van a tayikistán
+2021.07.06 {abc_es_internacional}, países bajos y república dominicana fijan sus fronteras marítimas
+2021.07.06 {abc_es_internacional}, reporteros sin fronteras pone nombre a los nuevos «depredadores de la libertad de prensa»
+2021.07.06 {abc_es_internacional}, su propio partido bloquea a biden su candidato para política iberoamericana
+2021.07.06 {abc_es_internacional}, un avión ruso con 28 personas a bordo se estrella en el mar del lejano oriente
+2021.07.06 {abc_es_internacional}, uno de los principales líderes opositores de bielorrusia condenado a 14 años de cárcel en régimen severo
+2021.07.06 {abc_es_internacional}, xavier bertrand, candidato conservador con posibilidades para derrotar a macron y le pen
+2021.07.07 {google_news_es}, 'gorda' y 'mala madre', esos eran algunos de los insultos de jamie spears a su hija britney - diario la prensa - la prensa de honduras
+2021.07.07 {google_news_es}, al menos 150 muertos en eeuu en más de 400 tiroteos durante las celebraciones del 4 de julio - infobae
+2021.07.07 {google_news_es}, asciende a 32 la cifra de muertos tras el colapso del edificio en surfside - noticias telemundo
+2021.07.07 {google_news_es}, avión de pasajeros se estrella en el lejano oriente de rusia - cnn
+2021.07.07 {google_news_es}, como 'una victoria de los pueblos' califican el fallo por crimen de berta cáceres - diario la prensa - la prensa de honduras
+2021.07.07 {google_news_es}, con el título de copa américa en la mira, messi vivirá la semana clave de su carrera - mediotiempo
+2021.07.07 {google_news_es}, con un mensaje en la mano encuentran cuerpo de la actriz porno 'kris the foxx' - diario metro de puerto rico
+2021.07.07 {google_news_es}, derrumbe en miami: redoblan las labores de búsqueda de víctimas | noticias univision estados unidos - univision
+2021.07.07 {google_news_es}, diverticulitis: qué es y cómo se trata la enfermedad por la que operaron al papa francisco - cnn
+2021.07.07 {google_news_es}, el pentágono anunció que la retirada de estados unidos de afganistán se completó en un 90% - infobae
+2021.07.07 {google_news_es}, el pentágono decidió cancelar un contrato de usd 10.000 millones con microsoft - infobae
+2021.07.07 {google_news_es}, el régimen de daniel ortega detuvo al sexto aspirante presidencial de la oposición en nicaragua - infobae
+2021.07.07 {google_news_es}, en vivo: autoridades en miami ofrecen nuevos detalles sobre la búsqueda y rescate en surfside - noticias telemundo
+2021.07.07 {google_news_es}, florida se prepara para una marejada ciclónica potencialmente mortal antes de la tormenta tropical elsa - cnn
+2021.07.07 {google_news_es}, google retira aplicaciones que robaban contraseñas de facebook - digital trends español
+2021.07.07 {google_news_es}, investigan muerte de niño tras vacunarse contra el covid-19 | noticias telemundo - noticias telemundo
+2021.07.07 {google_news_es}, italia vs españa: resumen en video y penaltis del partido de semifinales de la eurocopa - marca claro usa
+2021.07.07 {google_news_es}, jeff bezos deja el cargo de director general de amazon tras 27 años - rt en español
+2021.07.07 {google_news_es}, jennifer lopez usa este spray antiencrespamiento de amazon - womenshealthmag.com
+2021.07.07 {google_news_es}, jennifer lopez, en su primera entrevista tras su reconciliación con ben affleck: 'nunca he estado mejor' - yahoo style
+2021.07.07 {google_news_es}, las nietas de biden se roban las miradas en la fiesta por la independencia de la casa blanca - diario la prensa - la prensa de honduras
+2021.07.07 {google_news_es}, michelle bachelet considera “un ejemplo preocupante” la detención de tres defensores de derechos humanos en venezuela - cnn
+2021.07.07 {google_news_es}, muere a los 91 años richard donner, director de 'superman', 'los goonies' y 'arma letal' - rt en español
+2021.07.07 {google_news_es}, muere raffaella carrà, la cantante sensual que puso a bailar a los cubanos - diario 14ymedio
+2021.07.07 {google_news_es}, oficial: los jugadores de chivas que disputarán los juegos olímpicos de tokio 2020 - chivas pasión - bolavip
+2021.07.07 {google_news_es}, piratas informáticos exigen $70 millones para desbloquear un millón de dispositivos telemundo - telemundo
+2021.07.07 {google_news_es}, por qué es tan complicado invertir en acciones de empresas chinas - infobae
+2021.07.07 {google_news_es}, un adolescente de 13 años murió mientras dormía; fue vacunado contra el covid-19 tres días antes - el diario ny
+2021.07.07 {google_news_es}, un hueso de 51.000 años revela la capacidad simbólica de los neandertales - listín diario
+2021.07.07 {google_news_es}, un niño hispano muere tras accidente en un parque acuático | noticias telemundo - noticias telemundo
+2021.07.07 {google_news_es}, una vacuna con las variantes en la mira - el diario
+2021.07.07 {google_news_es}, videojuegos en japón, una tradición con más de 40 años de vida - mediotiempo
+2021.07.07 {google_news_es}, Últimas noticias y rumores de la nba - fansided es
+2021.07.07 {elpais_internacional}, bielorrusia condena al líder opositor viktor babariko a 14 años de cárcel
+2021.07.07 {elpais_internacional}, bolsonaro puede haber matado y robado a la vez
+2021.07.07 {elpais_internacional}, con los lectores
+2021.07.07 {elpais_internacional}, condenado el expresidente de la constructora desa por el asesinato de la ambientalista hondureña berta cáceres
+2021.07.07 {elpais_internacional}, derecha-extrema-derecha
+2021.07.07 {elpais_internacional}, el cartel jalisco nueva generación desafía al estado y desfila por aguililla con el rostro descubierto
+2021.07.07 {elpais_internacional}, el congreso de países bajos considera genocidio los crímenes contra los yazidíes
+2021.07.07 {elpais_internacional}, el gobierno de boris johnson endurece la ley contra los inmigrantes irregulares
+2021.07.07 {elpais_internacional}, el nuevo gobierno de israel se tambalea por una ley que discrimina a los palestinos
+2021.07.07 {elpais_internacional}, el parlamento europeo exige al primer ministro esloveno que respete la libertad de prensa
+2021.07.07 {elpais_internacional}, el pentágono cancela con microsoft un contrato por 10.000 millones de dólares para almacenar datos en la nube 
+2021.07.07 {elpais_internacional}, el regreso de los 'homicidios ejemplarizantes' a colombia
+2021.07.07 {elpais_internacional}, la tormenta tropical elsa obliga a evacuar a más de 200.000 personas en cuba
+2021.07.07 {elpais_internacional}, los días tristes del payaso grillo
+2021.07.07 {elpais_internacional}, merkel insta a acelerar el proceso de ampliación de la ue hacia los balcanes
+2021.07.07 {elpais_internacional}, merkel y macron buscan acercarse a china pese a los recelos de biden 
+2021.07.07 {elpais_internacional}, nicaragua: criminales
+2021.07.07 {elpais_internacional}, nueva york declara el estado de emergencia para afrontar el fenómeno de la violencia armada
+2021.07.07 {elpais_internacional}, ortega encarcela a líderes estudiantiles y del movimiento campesino en nicaragua
+2021.07.07 {elpais_internacional}, presidentes de altos tribunales europeos y americanos piden que se evite politizar la justicia
+2021.07.07 {elpais_internacional}, putin decreta que solo es champán el vino espumoso fabricado en rusia
+2021.07.07 {elpais_internacional}, tiroteado en ámsterdam un conocido periodista holandés que investiga el crimen organizado
+2021.07.07 {elpais_internacional}, un avión ruso con 28 personas a bordo se estrella en las inmediaciones de la península de kamchatka
+2021.07.07 {elpais_internacional}, un grupo de hombres armados secuestra a unos 140 estudiantes en el noroeste de nigeria
+2021.07.07 {elpais_internacional}, una modelo yemení encarcelada por desafiar la estrecha moral de los rebeldes huthi
+2021.07.07 {bbcnews_internacional}, nos trataron como perros: migrantes hablan del horror del naufragio en malta
+2021.07.07 {bbcnews_internacional}, una ilusión tomar fotos en la casa blanca
+2021.07.07 {bbcnews_internacional}, acciones de alibaba en bolsa de nueva york alcanzan los us$90 
+2021.07.07 {bbcnews_internacional}, agricultores franceses queman edificios públicos en protesta
+2021.07.07 {bbcnews_internacional}, air france ofrece tregua a trabajadores en huelga
+2021.07.07 {bbcnews_internacional}, al menos 30 muertos en ataque de boko haram en nigeria
+2021.07.07 {bbcnews_internacional}, al menos un muerto en atentado contra mezquita chiita en pakistán
+2021.07.07 {bbcnews_internacional}, ante la amenaza de e. islámico, se acercan irán y arabia saudita
+2021.07.07 {bbcnews_internacional}, antes y después: la destrucción de los monumentos más importantes de siria
+2021.07.07 {bbcnews_internacional}, australia anuncia nuevas leyes antiterroristas
+2021.07.07 {bbcnews_internacional}, australia: cazador sobrevive a ataque de cocodrilo golpéandole el ojo
+2021.07.07 {bbcnews_internacional}, australia: murió hombre que había amenazado al primer ministro
+2021.07.07 {bbcnews_internacional}, barack obama felicitó a los escoceses por la participación en el referendo
+2021.07.07 {bbcnews_internacional}, boletín: más de 130.000 sirios kurdos cruzan a turquía huyendo de estado islámico y otras noticias
+2021.07.07 {bbcnews_internacional}, boletín: primer ataque de ee.uu. y aliados árabes contra estado islámico en siria y otras noticias
+2021.07.07 {bbcnews_internacional}, camboya decomisa us$7,1 millones en billetes falsos
+2021.07.07 {bbcnews_internacional}, candidatos presidenciales afganos acuerdan compartir el poder
+2021.07.07 {bbcnews_internacional}, cazabombarderos de ee.uu. interceptan aviones militares rusos acercándose a alaska
+2021.07.07 {bbcnews_internacional}, china: condenan por separatista a académico uigur
+2021.07.07 {bbcnews_internacional}, china: dos personas mueren por explosiones en xinjiang
+2021.07.07 {bbcnews_internacional}, confirman victoria oficialista en elecciones de fiji
+2021.07.07 {bbcnews_internacional}, cuán moderados son los rebeldes que ee.uu. quiere armar en siria
+2021.07.07 {bbcnews_internacional}, desaparecen tres soldados afganos en ee.uu.
+2021.07.07 {bbcnews_internacional}, disturbios en glasgow entre independentistas y unionistas
+2021.07.07 {bbcnews_internacional}, ee.uu. y países aliados realizan primeros ataques contra estado islámico en siria
+2021.07.07 {bbcnews_internacional}, ee.uu.: obama destaca ayuda de países árabes contra estado islámico
+2021.07.07 {bbcnews_internacional}, ee.uu.: secretario de seguridad nacional revisará fallas de seguridad en la casa blanca
+2021.07.07 {bbcnews_internacional}, ee.uu.: tres soldados afganos desaparecidos fueron hallados en la frontera con canadá
+2021.07.07 {bbcnews_internacional}, el drama de 4 vidas entre los escombros en gaza
+2021.07.07 {bbcnews_internacional}, el expresidente francés nicolas sarkozy volverá a la política
+2021.07.07 {bbcnews_internacional}, el grupo yihadista estado islámico libera a 49 rehenes turcos
+2021.07.07 {bbcnews_internacional}, en qué se parecen y se diferencian escocia y cataluña
+2021.07.07 {bbcnews_internacional}, escocia: alex salmond, líder del sí, anuncia que renunciará
+2021.07.07 {bbcnews_internacional}, españa: cataluña aprobó ley de consultas para convocar referendo
+2021.07.07 {bbcnews_internacional}, españa: mariano rajoy retiró reforma a la ley del aborto
+2021.07.07 {bbcnews_internacional}, esposa de rehén británico pide a ei su liberación
+2021.07.07 {bbcnews_internacional}, estado islámico amenazó a ciudadanos de los países de la coalición con ee.uu.
+2021.07.07 {bbcnews_internacional}, estado islámico difunde nuevo video de rehén británico
+2021.07.07 {bbcnews_internacional}, estado islámico: el drama de la masiva huida de refugiados sirios kurdos hacia turquía
+2021.07.07 {bbcnews_internacional}, estados unidos: inicia manifestación de inunda wall street en nueva york
+2021.07.07 {bbcnews_internacional}, estudiantes de hong kong protestan contra china
+2021.07.07 {bbcnews_internacional}, familia rockefeller se desprenderá de inversiones en combustibles fósiles
+2021.07.07 {bbcnews_internacional}, filipinas: al menos diez muertos por tormenta tropical fung-wong
+2021.07.07 {bbcnews_internacional}, francia confirma secuestro de uno de sus ciudadanos en argelia
+2021.07.07 {bbcnews_internacional}, francia y reino unido firman acuerdo para combatir inmigración en calais
+2021.07.07 {bbcnews_internacional}, francia: hombre fingió su funeral para escapar de la cárcel
+2021.07.07 {bbcnews_internacional}, francia: huelga en air france se extenderá hasta el próximo viernes
+2021.07.07 {bbcnews_internacional}, francia: tribunal supremo amplió derechos para matrimonios homosexuales
+2021.07.07 {bbcnews_internacional}, gobierno británico niega que incumplirá promesas de darle más poder a escocia
+2021.07.07 {bbcnews_internacional}, gobierno y rebeldes firman acuerdo para poner fin a crisis en yemen
+2021.07.07 {bbcnews_internacional}, india no es lugar para al qaeda, dice primer ministro modi
+2021.07.07 {bbcnews_internacional}, intruso dispara alarmas en la casa blanca
+2021.07.07 {bbcnews_internacional}, intruso que saltó la verja de la casa blanca llegó a alcanzar la entrada
+2021.07.07 {bbcnews_internacional}, irán: 11 arrestados por insultar al ayatolá jamenei en aplicaciones de mensajería
+2021.07.07 {bbcnews_internacional}, isabel ii pidió respetar el resultado del referendo en escocia
+2021.07.07 {bbcnews_internacional}, israel derriba avión de guerra sirio
+2021.07.07 {bbcnews_internacional}, israel mata a sospechosos de secuestro de adolescentes
+2021.07.07 {bbcnews_internacional}, jordania admite participación en campaña contra estado islámico
+2021.07.07 {bbcnews_internacional}, justicia de ee.uu. declara a banco jordano responsable de enviar fondos a hamas
+2021.07.07 {bbcnews_internacional}, kenia recuerda víctimas de atentado en centro comercial de nairobi
+2021.07.07 {bbcnews_internacional}, kerry anima a irán a sumarse al esfuerzo contra radicales de estado islámico
+2021.07.07 {bbcnews_internacional}, la casa blanca aumenta la seguridad tras dos intrusiones consecutivas
+2021.07.07 {bbcnews_internacional}, la corte penal internacional cita al presidente de kenia
+2021.07.07 {bbcnews_internacional}, la moda de los candados en los puentes, ¿romance o epidemia?
+2021.07.07 {bbcnews_internacional}, las fallas de seguridad que harán más difícil tomarse una foto en la casa blanca
+2021.07.07 {bbcnews_internacional}, las misteriosas explosiones que sacuden las calles de londres
+2021.07.07 {bbcnews_internacional}, los grandes riesgos que enfrenta la coalición internacional contra estado islámico
+2021.07.07 {bbcnews_internacional}, los rusos que se oponen a putin por la crisis en ucrania
+2021.07.07 {bbcnews_internacional}, líbano: dos soldados muertos por ataque en la frontera con siria
+2021.07.07 {bbcnews_internacional}, líderes de 125 países se reúnen para debatir sobre cambio climático
+2021.07.07 {bbcnews_internacional}, miles de personas participan en jornada mundial de protestas por cambio climático
+2021.07.07 {bbcnews_internacional}, miles de personas protestan en moscú contra conflicto en ucrania
+2021.07.07 {bbcnews_internacional}, milicianos chiitas invaden la capital de yemen
+2021.07.07 {bbcnews_internacional}, minuto a minuto: escocia dice no a la independencia de reino unido
+2021.07.07 {bbcnews_internacional}, nepal: hombre muere después de pasar 329 días en huelga de hambre
+2021.07.07 {bbcnews_internacional}, nigeria: 115 sudafricanos murieron en el colapso de iglesia evangélica
+2021.07.07 {bbcnews_internacional}, nueva zelanda: partido nacionalista logra reelección por tercera vez
+2021.07.07 {bbcnews_internacional}, oms afirmó que 2.800 personas han muerto a causa del Ébola
+2021.07.07 {bbcnews_internacional}, onu anuncia acuerdo para resolver la crisis de yemen
+2021.07.07 {bbcnews_internacional}, otan: el cese el fuego en ucrania es sólo de nombre 
+2021.07.07 {bbcnews_internacional}, papa francisco oficia misa multitudinaria en la capital albanesa
+2021.07.07 {bbcnews_internacional}, primer ministro interino de fiji se autoproclama ganador de elecciones
+2021.07.07 {bbcnews_internacional}, referendo en escocia: ex primer ministro gordon brown pide dejar atrás las diferencias 
+2021.07.07 {bbcnews_internacional}, segundo arresto consecutivo por intento de entrar en la casa blanca
+2021.07.07 {bbcnews_internacional}, según investigadores, asaltante de la casa blanca tenía armamento en su vehículo 
+2021.07.07 {bbcnews_internacional}, siemens compra firma de petróleo y gas en ee.uu.
+2021.07.07 {bbcnews_internacional}, tormenta tropical fung-wong deja 5 muertos en filipinas
+2021.07.07 {bbcnews_internacional}, turquía cierra cruces fronterizos con siria
+2021.07.07 {bbcnews_internacional}, turquía: 40.000 refugiados cruzaron la frontera desde siria
+2021.07.07 {bbcnews_internacional}, turquía: recepción multitudinaria a rehenes rescatados
+2021.07.07 {bbcnews_internacional}, turquía: unos 130 mil refugiados kurdos han atravesado la frontera desde siria
+2021.07.07 {bbcnews_internacional}, ucrania alcanza un acuerdo de paz con los rebeldes prorrusos
+2021.07.07 {bbcnews_internacional}, ucrania prepara retirada de artillería del este del país
+2021.07.07 {bbcnews_internacional}, ucrania: acuerdan desmilitarizar franja de 30 kilómetros
+2021.07.07 {bbcnews_internacional}, un tigre blanco atacó y mató a un adolescente en india
+2021.07.07 {bbcnews_internacional}, vea las imágenes de las explosiones en las aceras de londres
+2021.07.07 {bbcnews_internacional}, vea las primeras imágenes de los ataques contra estado islámico en siria
+2021.07.07 {bbcnews_internacional}, yemen: renuncia primer ministro 
+2021.07.07 {bbcnews_internacional}, yihadistas de estado islámico toman 60 pueblos cerca de la frontera con turquía
+2021.07.07 {bbcnews_internacional}, ¿por qué las apuestas predijeron mejor que las encuestas el referendo de escocia? 
+2021.07.07 {bbcnews_americalatina}, alertan sobre nuevo derrame tóxico en méxico
+2021.07.07 {bbcnews_americalatina}, argentina aprueba ley de abastecimiento, con resistencia de oposición y empresarios
+2021.07.07 {bbcnews_americalatina}, argentina enjuicia médicos que robaron bebés durante la guerra sucia
+2021.07.07 {bbcnews_americalatina}, arrestan a tres personas que portaban explosivos en chile
+2021.07.07 {bbcnews_americalatina}, boletín: ee.uu. lanza primera operación de su nueva estrategia contra ei y otras noticias
+2021.07.07 {bbcnews_americalatina}, boletín: ee.uu. lleva a cabo ejercicios militares en ucrania y otras noticias
+2021.07.07 {bbcnews_americalatina}, boletín: escocia decide si se independiza o no de reino unido y otras noticias
+2021.07.07 {bbcnews_americalatina}, boletín: escocia rechaza la independencia de reino unido y otras noticias
+2021.07.07 {bbcnews_americalatina}, boletín: más de 130.000 sirios kurdos cruzan a turquía huyendo de estado islámico y otras noticias
+2021.07.07 {bbcnews_americalatina}, boletín: pistorius, culpable de homicidio culposo y otras noticias
+2021.07.07 {bbcnews_americalatina}, boletín: primer ataque de ee.uu. y aliados árabes contra estado islámico en siria y otras noticias
+2021.07.07 {bbcnews_americalatina}, boletín: último día de campaña para el referendo en escocia y otras noticias
+2021.07.07 {bbcnews_americalatina}, brasil construye torre en el amazonas para monitorear el clima
+2021.07.07 {bbcnews_americalatina}, brasil: operativo para desmantelar red de policías envueltos en casos de soborno
+2021.07.07 {bbcnews_americalatina}, byron lima, el preso más poderoso de guatemala
+2021.07.07 {bbcnews_americalatina}, canciller argentino cita a embajador interino de ee.uu. por críticar estrategia con fondos buitre
+2021.07.07 {bbcnews_americalatina}, chile: detienen a sospechoso de colocar bomba en metro de santiago
+2021.07.07 {bbcnews_americalatina}, chile: liberan a diputado procesado por muerte a opositores de pinochet
+2021.07.07 {bbcnews_americalatina}, chile: roban us$3,3 millones a la casa de empeño tía rica
+2021.07.07 {bbcnews_americalatina}, ciclistas colombianas no cambiarán su uniforme al desnudo
+2021.07.07 {bbcnews_americalatina}, colombia: somos unos vivientes muertos
+2021.07.07 {bbcnews_americalatina}, colombia: matan a dos contratistas que reparaban oleoducto de ecopetrol
+2021.07.07 {bbcnews_americalatina}, colombia: policía incauta más de dos toneladas de droga
+2021.07.07 {bbcnews_americalatina}, colombia: uribe lleva a la justicia a senador por recibir dinero del narco
+2021.07.07 {bbcnews_americalatina}, conexión precoz: una aventura con nauta
+2021.07.07 {bbcnews_americalatina}, corte chilena rechaza dejar en libertad a acusado de muerte de víctor jara
+2021.07.07 {bbcnews_americalatina}, cristina fernández dice estar amenazada por el grupo radical estado islámico
+2021.07.07 {bbcnews_americalatina}, cuba enviará asistencia médica a sierra leona para combatir ébola
+2021.07.07 {bbcnews_americalatina}, cómo leer las encuestas de brasil sin enloquecer en el intento
+2021.07.07 {bbcnews_americalatina}, cómo operan las mafias del multimillonario negocio de la madera ilegal en perú
+2021.07.07 {bbcnews_americalatina}, decenas de detenidos en desalojo de un edificio ocupado en são paulo
+2021.07.07 {bbcnews_americalatina}, destrucción y saqueos en baja california sur tras el paso del huracán odile
+2021.07.07 {bbcnews_americalatina}, dos británicos desaparecidos en méxico por huracán odile
+2021.07.07 {bbcnews_americalatina}, ecuador: correa convoca a sus partidarios a marcha de apoyo a su gestión
+2021.07.07 {bbcnews_americalatina}, ecuador: violentos disturbios en quito tras multitudinaria protesta contra correa
+2021.07.07 {bbcnews_americalatina}, ee.uu. dice que venezuela y bolivia han fallado en sus acuerdos antinarcóticos
+2021.07.07 {bbcnews_americalatina}, el debate contra uribe que encendió al congreso colombiano
+2021.07.07 {bbcnews_americalatina}, el embajador chileno que se salvó de morir en un carro bomba en washington
+2021.07.07 {bbcnews_americalatina}, el futbolista argentino jonás gutiérrez tiene cáncer testicular
+2021.07.07 {bbcnews_americalatina}, el gobierno de ecuador anuncia acciones judiciales contra manifestantes
+2021.07.07 {bbcnews_americalatina}, el gobierno de méxico investiga concierto de miley cyrus por gesto con la bandera
+2021.07.07 {bbcnews_americalatina}, el vestido de la mujer más odiada de méxico
+2021.07.07 {bbcnews_americalatina}, establecen comisión para investigar tala ilegal en perú
+2021.07.07 {bbcnews_americalatina}, estrato 1, estrato 6: cómo los colombianos hablan de sí mismos divididos en clases sociales
+2021.07.07 {bbcnews_americalatina}, evo morales dice que le gustaría abrir un restaurante cuando deje el poder
+2021.07.07 {bbcnews_americalatina}, fallece la actriz uruguaya china zorrilla 
+2021.07.07 {bbcnews_americalatina}, fao: brasil redujo tasa de desnutrición a la mitad
+2021.07.07 {bbcnews_americalatina}, fernández denuncia que con caso fondos buitres quieren poner de rodillas a argentina
+2021.07.07 {bbcnews_americalatina}, guatemala: detienen a cuatro policías por supuesta implicación en secuestro
+2021.07.07 {bbcnews_americalatina}, guatemala: seis muertos en enfrentamiento por construcción de carretera
+2021.07.07 {bbcnews_americalatina}, huracán odile toca tierra en méxico y cae a categoría 2
+2021.07.07 {bbcnews_americalatina}, inauguran memorial de víctor jara en santiago de chile
+2021.07.07 {bbcnews_americalatina}, informe advierte sobre falso dilema entre economía y ambiente
+2021.07.07 {bbcnews_americalatina}, juan gabriel valdés: no puedo más que pensar en eso 
+2021.07.07 {bbcnews_americalatina}, la bebé brasileña con dos madres y un padre
+2021.07.07 {bbcnews_americalatina}, la tormenta polo se convierte en huracán frente a las costas mexicanas
+2021.07.07 {bbcnews_americalatina}, las dos vidas de cantinflas
+2021.07.07 {bbcnews_americalatina}, las millonarias demandas que afectan al exfutbolista chileno iván zamorano 
+2021.07.07 {bbcnews_americalatina}, las mujeres que desafían la violencia en la capital colombiana del horror
+2021.07.07 {bbcnews_americalatina}, lo que se sabe sobre la misteriosa enfermedad que desconcierta a los médicos en venezuela
+2021.07.07 {bbcnews_americalatina}, loma miranda: el controvertido veto que dejó en shock a los dominicanos
+2021.07.07 {bbcnews_americalatina}, los consejos del nobel mexicano que descubrió gases del agujero de ozono
+2021.07.07 {bbcnews_americalatina}, los inodoros que ayudan a los haitianos a cultivar sus alimentos
+2021.07.07 {bbcnews_americalatina}, los secretos del caribe que buscan los científicos en los cuadernos de hemingway
+2021.07.07 {bbcnews_americalatina}, maduro anuncia un plan de desarme de civiles en venezuela
+2021.07.07 {bbcnews_americalatina}, manifestación en bogotá por la muerte del joven sergio urrego
+2021.07.07 {bbcnews_americalatina}, maría conchita alonso: no hay que matarlos, pero hay que sacar a los comunistas del país
+2021.07.07 {bbcnews_americalatina}, miley cyrus y otras grandes polémicas con artistas en méxico
+2021.07.07 {bbcnews_americalatina}, méxico azotado por el huracán odile: estaba todo destruido
+2021.07.07 {bbcnews_americalatina}, méxico: empiezan a evacuar turistas varados por odile
+2021.07.07 {bbcnews_americalatina}, méxico: encuentran cadáver de británica desaparecida por huracán odile
+2021.07.07 {bbcnews_americalatina}, méxico: hallan muerto a hermano del líder de los templarios
+2021.07.07 {bbcnews_americalatina}, méxico: sigue escándalo por insulto racista contra ronaldinho
+2021.07.07 {bbcnews_americalatina}, méxico: surgen grupos de autodefensa tras saqueos en baja california
+2021.07.07 {bbcnews_americalatina}, nueva jornada de disturbios en ecuador
+2021.07.07 {bbcnews_americalatina}, obama designa a maría echaveste como nueva embajadora de ee.uu. en méxico
+2021.07.07 {bbcnews_americalatina}, perú descarta recibir presos de guantánamo tras consulta de ee.uu.
+2021.07.07 {bbcnews_americalatina}, perú: investigan a congresista por vínculo con supuesto narcotraficante mexicano
+2021.07.07 {bbcnews_americalatina}, polémica por las barbie y ken religiosos en argentina
+2021.07.07 {bbcnews_americalatina}, por qué es tan difícil hablar por celular en argentina
+2021.07.07 {bbcnews_americalatina}, protestas violentas en caracas dejan más de 20 detenidos
+2021.07.07 {bbcnews_americalatina}, quién es el otro chapo que gana poder en méxico
+2021.07.07 {bbcnews_americalatina}, qué significa la liberación de iván simonovis, el preso político más simbólico de venezuela 
+2021.07.07 {bbcnews_americalatina}, roban al arzobispo de río de janeiro en plena vía
+2021.07.07 {bbcnews_americalatina}, río seguirá con pacificación de favelas tras muerte de comandante policial
+2021.07.07 {bbcnews_americalatina}, santos: no le estoy dando el país a las farc
+2021.07.07 {bbcnews_americalatina}, siete policías muertos en ataque de las farc en colombia
+2021.07.07 {bbcnews_americalatina}, suspenden un vuelo en argentina por una falsa amenaza de bomba
+2021.07.07 {bbcnews_americalatina}, trasladan a expresidente salvadoreño a celda común
+2021.07.07 {bbcnews_americalatina}, un inodoro para combatir enfermedades 
+2021.07.07 {bbcnews_americalatina}, venezuela inicia proceso para revocar nacionalidad a la actriz maría conchita alonso
+2021.07.07 {bbcnews_americalatina}, venezuela: casa por cárcel para el comisario iván simonovis, prominente símbolo opositor
+2021.07.07 {bbcnews_americalatina}, venezuela: despiden a caricaturista del diario el universal por viñeta sobre crisis de salud
+2021.07.07 {bbcnews_americalatina}, venezuela: juzgarán en libertad a líder estudiantil detenida en protestas opositoras
+2021.07.07 {bbcnews_americalatina}, vuelven a posponer el juicio a leopoldo lópez
+2021.07.07 {bbcnews_americalatina}, ¿cómo se convirtió cuba en una potencia humanitaria?
+2021.07.07 {bbcnews_americalatina}, ¿por qué brasil construye una torre más alta que la eiffel en medio del amazonas?
+2021.07.07 {bbcnews_americalatina}, ¿por qué internet en venezuela es tan lento?
+2021.07.07 {bbcnews_americalatina}, ¿por qué venezuela es tan buen pagador con wall street?
+2021.07.07 {bbcnews_americalatina}, ¿puede conviasa resolver la crisis de las aerolíneas en venezuela?
+2021.07.07 {abc_es_internacional}, al menos 140 estudiantes secuestrados en el norte de nigeria
+2021.07.07 {abc_es_internacional}, bielorrusia deja pasar a cientos de iraquíes para llenar a lituania de refugiados
+2021.07.07 {abc_es_internacional}, blanca navidad en kabul
+2021.07.07 {abc_es_internacional}, declaran culpable del asesinato de berta cáceres al expresidente de la empresa hidroeléctrica desa
+2021.07.07 {abc_es_internacional}, derribado un dron con explosivos sobre la embajada de ee.uu. en irak
+2021.07.07 {abc_es_internacional}, detienen a dos excomandantes en bolivia por forzar la salida de evo morales del poder
+2021.07.07 {abc_es_internacional}, el presidente de haití lleva más de un año de gobierno por decreto amparado en la pandemia
+2021.07.07 {abc_es_internacional}, guaidó muestra a cuentagotas su interés por las megaelecciones de noviembre
+2021.07.07 {abc_es_internacional}, joe biden: «la covid ya no controla las vidas de los ciudadanos ni paraliza la nación»
+2021.07.07 {abc_es_internacional}, johnson anuncia una apertura total: adiós a la mascarilla, la distancia social y la cuarentena
+2021.07.07 {abc_es_internacional}, la policía de nicaragua detiene a líderes universitarios y campesinos
+2021.07.07 {abc_es_internacional}, los talibán han ocupado 28 distritos afganos en una semana tras la salida de los soldados extranjeros
+2021.07.07 {abc_es_internacional}, maduro no logra frenar la investigación de la cpi por crímenes de lesa humanidad
+2021.07.07 {abc_es_internacional}, más de mil soldados afganos huyen de los talibanes y se van a tayikistán
+2021.07.07 {abc_es_internacional}, países bajos y república dominicana fijan sus fronteras marítimas
+2021.07.07 {abc_es_internacional}, reporteros sin fronteras pone nombre a los nuevos «depredadores de la libertad de prensa»
+2021.07.07 {abc_es_internacional}, su propio partido bloquea a biden su candidato para política iberoamericana
+2021.07.07 {abc_es_internacional}, un avión ruso con 28 personas a bordo se estrella en el mar del lejano oriente
+2021.07.07 {abc_es_internacional}, uno de los principales líderes opositores de bielorrusia condenado a 14 años de cárcel en régimen severo
+2021.07.07 {abc_es_internacional}, xavier bertrand, candidato conservador con posibilidades para derrotar a macron y le pen
