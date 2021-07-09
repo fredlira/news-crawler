@@ -1,2 +1,2 @@
-create table ft_news (id_news int primary key, title text, source text, date int);
-create table ft_tokens (token_name text primary key, frequency int, date int);
+create table ft_news (news_id int primary key, news_title text, news_source text, news_date int);
+create table ft_tokens (token_id int primary key, token_name text, token_language text);

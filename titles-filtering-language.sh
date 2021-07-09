@@ -86,7 +86,7 @@ sed -i 's/áfrica do sul/áfrica-do-sul/g' $1
 sed -i 's/america/américa/g' $1
 sed -i 's/américa latina/américa-latina/g' $1
 
-sed -i 's/banco mundial/banco-mundial/g'
+sed -i 's/banco mundial/banco-mundial/g' $1
 
 sed -i 's/cabo verde/cabo-verde/g' $1
 
@@ -106,4 +106,3 @@ if [ -z "$2" -o "$2" = "es" ]; then
 sed -i 's/ee uu/ee-uu/g' $1
 
 fi
-
