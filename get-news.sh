@@ -15,7 +15,8 @@ echo ""
 
 news_file=news_$5_$1_$(date +"%Y%m%d_%H%M")
 
-curl -L -H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" $2 > $news_file.raw
+#curl -L -H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" $2 > $news_file.raw
+curl -L -H "Content-Type: application/x-www-form-urlencoded; charset=utf-8" $2 2>/dev/null > $news_file.raw
 
 eval "$3 '$4' $news_file.raw" > $news_file.titles # from .raw to .titles
 
