@@ -81,10 +81,21 @@ sed -i 's/- torcedores.com//g' $1
 sed -i 's/saiba mais-//g' $1
 sed -i 's/exclusivo-//g' $1
 
-sed -i 's/reino unido/reino-unido/g' $1
-sed -i 's/america latina/america-latina/g' $1
-sed -i 's/estados unidos/estados-unidos/g' $1
+sed -i 's/africa/áfrica/g' $1
+sed -i 's/áfrica do sul/áfrica-do-sul/g' $1
+sed -i 's/america/américa/g' $1
+sed -i 's/américa latina/américa-latina/g' $1
+
 sed -i 's/banco mundial/banco-mundial/g'
+
+sed -i 's/cabo verde/cabo-verde/g' $1
+
+sed -i 's/estados unidos/estados-unidos/g' $1
+
+sed -i 's/reino unido/reino-unido/g' $1
+
+sed -i 's/união européia/união-européia/g' $1
+sed -i 's/união soviética/união-soviética/g' $1
 
 fi
 

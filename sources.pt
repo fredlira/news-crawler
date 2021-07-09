@@ -69,3 +69,9 @@ https://feeds.elpais.com/mrss-s/pages/ep/site/brasil.elpais.com/portada
 'xmllint --xpath'
 '//item/title/text()'
 pt
+
+nexo_internacional
+https://www.nexojornal.com.br/tema/Internacional
+'xmllint --html --xpath'
+'//h4/a/text()'
+pt
